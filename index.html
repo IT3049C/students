@@ -1,0 +1,69 @@
+---
+layout: default
+title: IT2045
+---
+<!-- based on http://git.io/vvroy -->
+
+<div class="container">
+
+  
+  {% assign semesters = site.data | sort %}
+  {% for folder in semesters reversed %}
+  {% assign semester = folder[1] %}
+  <div class="row">
+    <h3>
+      {{folder[0]}}
+    </h3>
+    {% assign students = semester | sort %}
+    {% for user_hash in students %}
+    {% assign username = user_hash[0] %}
+    {% assign user = user_hash[1] %}
+
+    <div class="col-md-4 col-sm-4 js-student" data-username="{{username}}">
+      <div class="team-member">
+        <div class="team-img">
+          <img class="img-responsive js-avatar" src="">
+        </div>
+        <div class="team-hover" onclick="void(0)">
+          <div class="desk">
+            <h4>Hi There !</h4>
+            <p>
+              {{ user.introduction }}
+            </p>
+            <h5>Achievements</h5>
+            <ul>
+              {% for achievement in user.achievements %}
+              <li>{{achievement}}</li>
+              {% endfor %}
+            </ul>
+          </div>
+          <div class="s-link">
+            <a href="https://github.com/{{ username }}"><i class="fa fa-github"></i></a>
+            {% if user.links.site %}
+              <a href="{{user.links.site}}"><i class="fa fa-user"></i></a>
+            {% endif %}
+            {% if user.links.facebook %}
+              <a href="{{user.links.facebook}}"><i class="fa fa-facebook"></i></a>
+            {% endif %}
+            {% if user.links.twitter %}
+              <a href="{{user.links.twitter}}"><i class="fa fa-twitter"></i></a>
+            {% endif %}
+            {% if user.links.linkedin %}
+              <a href="{{user.links.linkedin}}"><i class="fa fa-linkedin"></i></a>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+      <div class="team-title">
+        <!-- <h5>Yahya Gilany</h5> -->
+        <h5 class="js-name"></h5>
+        <span>{{user.role}}</span>
+        {% assign emoji = user.emoji | replace:':','' | replace:'+','--' %}
+        <i class="em em-{{ emoji }}"></i>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+
+  {% endfor %}
+</div>

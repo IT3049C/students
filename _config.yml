@@ -1,0 +1,3 @@
+exclude:
+  - vendor
+class: IT2045C
