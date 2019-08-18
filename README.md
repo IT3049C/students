@@ -2,7 +2,7 @@
 This repository is for practicing different activities of GitHub.
 ### To Add yourself:
 - Create a `GITHUB-USERNAME.json` file under the appropriate semester in the [`_data/`](_data) directory.
-- Introduce yourself in the file. See [the example file](_data/instructor/Ygilany.json)
+- Introduce yourself in the file. See [the example file](_data/Instructor/Ygilany.json)
 - You may choose your own `emoji` (see [this list](http://www.emoji-cheat-sheet.com/)).
 
 Here's an example of the json file 
