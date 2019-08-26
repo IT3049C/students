@@ -1,0 +1,10 @@
+{
+  "emoji": ":feelsgood:", // you can pick your own from the list above
+  "role": "Student", 
+  "introduction": "I hope this works.", // a short messgae that will be presented when you hover over your image
+  "achievements": [ // add some achivedments that you'd like to share with us
+    "I foster dogs/puppies for Louie's Legacy.",
+  ], 
+  "links": {
+  }
+}
