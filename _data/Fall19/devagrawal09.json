@@ -1,0 +1,16 @@
+{
+	"emoji": ":smiling_imp:",
+	"role": "Student",
+	"introduction": "I am a second-year IT student specializing in software development and game design. I am also a Research Assistant at UC, part time freelance developer, and full time metalhead.",
+	"achievements": [
+		"Won some high-school web-design contests",
+		"Reached the semifinals of a soccer tournament",
+		"Completed this assignment"
+	],
+	"links": {
+		"site": "https://devagrawal09.github.io/portfolio/",
+		"linkedin": "https://www.linkedin.com/in/dev-agrawal",
+		"facebook": "https://www.facebook.com/dadevil09",
+		"twitter": "https://twitter.com/mrdevagrawal09",
+	}
+}
