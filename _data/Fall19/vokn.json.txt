@@ -1,0 +1,10 @@
+{
+  "emoji": ":smile:", 
+  "role": "Student", 
+  "introduction": "I'm excited to be in this class with all of you!", 
+  "achievements": [ 
+    "I have been out of the country over 20 times!",
+  ], 
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/kaitlin-vo-185018152/", 
+  }
