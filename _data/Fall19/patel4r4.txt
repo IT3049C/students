@@ -1,15 +1,15 @@
 {
-"emoji": ":smirk_cat:",
-"role": "Student",
-"introduction": "I'm excited to learn about programming!",
-"achievements": [
-  "I played baseball throughout highschool with having the best error percentage on the team "
-" I have reached rank 500 on League of Legends this past month "
-],
-"links": {
-  "site": "LINK_TO_YOUR_WEBSITE",
-  "linkedin": "LINK_TO_YOUR_LINKEDIN_PROFILE",
-"facebook": "LINK_TO_YOUR_FACEBOOK_PROFILE",
-"twitter": "LINK_TO_YOUR_TWITTER_PROFILE",
-}
+
+	"emoji": ":smirk_cat:",
+
+	"role": "Student",
+
+	"introduction": "I'm excited to learn about programming!",
+
+	"achievements":
+
+	["I played baseball throughout highschool with having the best error percentage on the team",
+
+	"I have reached rank 500 on League of Legends this past month"]
+ 
 }
