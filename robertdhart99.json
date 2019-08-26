@@ -1,12 +1,14 @@
 {
-"emoji": ":thumbsup:",
-"role": "Student",
-"introduction": "I'm Bobby Hart and I am a pretty easy going person",
-"achievements": [
-  "I was a Varsity swimmer and tennis player in my junior and senior Year",
-"I was part of a team that places 1st in a ragatta with 20 boats over the summer"
-],
-"links": {
-  "linkedin": "https://www.linkedin.com/in/bobby-hart-18b907178/",
-}
+	"emoji": ":thumbsup:",
+	"role": "Student",
+	"introduction": "I'm Robert Hart and I am a pretty easy going person. I prefer to go by Bobby",
+	"achievements": 
+	[
+		"I was a Varsity swimmer and tennis player in my junior and senior Year",
+		"I was part of a team that places 1st in a ragatta with 20 boats over the summer"
+	],
+	"links": 
+	{
+		"linkedin": "https://www.linkedin.com/in/bobby-hart-18b907178/",
+	}
 }
