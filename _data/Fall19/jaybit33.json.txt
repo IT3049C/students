@@ -1,0 +1,15 @@
+{
+"emoji": ":smirk_cat:",
+"role": "Student",
+"introduction": "I love coding!!! Python, Java, C#, Javascript love it all",
+"achievements": [
+  "Founded company in 2014",
+"Reached over 300k in gross annual sales"
+],
+"links": {
+  "site": "no site",
+  "linkedin": "https://www.linkedin.com/in/justin-roseman-236b56182/",
+"facebook": "http://www.facebook.com/jayroseman",
+"twitter": "http://www.twitter.com/Jbitcode",
+}
+}
