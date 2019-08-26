@@ -1,0 +1,15 @@
+{
+
+	"emoji": ":smirk_cat:",
+
+	"role": "Student",
+
+	"introduction": "I'm excited to learn about programming!",
+
+	"achievements":
+
+	["I played baseball throughout highschool with having the best error percentage on the team",
+
+	"I have reached rank 500 on League of Legends this past month"]
+ 
+}
