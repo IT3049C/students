@@ -1,0 +1,23 @@
+# IT2045C - Over the Years
+This repository is for practicing different activities of GitHub.
+### To Add yourself:
+- Create a `GITHUB-USERNAME.json` file under the appropriate semester in the [`_data/`](_data) directory.
+- Introduce yourself in the file. See [the example file](_data/Instructor/Ygilany.json)
+- You may choose your own `emoji` (see [this list](http://www.emoji-cheat-sheet.com/)).
+
+Here's an example of the json file 
+```json
+{
+  "emoji": " :laughing:", 
+  "role": "Student", 
+  "introduction": "I'm excited to learn everything that this class has to teach me and eventually more!!!!!", 
+  "achievements": [ 
+    "no achievement yet",
+  ], 
+  "links": {
+    "site": "http://homepages.uc.edu/~konemu/final/", // a link to your personal website (remove if you don't want to share)
+    "linkedin": "www.linkedin.com\mamadoukone", 
+  }
+}
+
+```
