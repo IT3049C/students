@@ -1,9 +1,9 @@
 {
-"emoji": ":smirk_cat:",
-"role": "Student",
-"introduction": "Hi my name is jamal brown. I work currently as a software engineer at worldpay and a student worker. Iam also a full time student.",
-"achievements": [
-  "Won a few chess tournements",
-"Can program in many languages"
-]
+  "emoji": ":smirk_cat:",
+  "role": "Student",
+  "introduction": "Hi my name is jamal brown. I work currently as a software engineer at worldpay and a student worker. Iam also a full time student.",
+  "achievements": [
+    "Won a few chess tournements",
+    "Can program in many languages"
+  ]
 }
