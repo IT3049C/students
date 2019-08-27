@@ -13,7 +13,7 @@ $(function() {
         console.log(data)
         $avatar.attr('src', data.avatar_url);
         var $name = $student.find('.js-name');
-        $name.text(data.name);
+        $name.text(data.name || username);
       },
       error: function() {
         $avatar.attr('src', 'https://github.com/identicons/' + username + '.png');
