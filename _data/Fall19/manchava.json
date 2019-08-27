@@ -1,10 +1,8 @@
 {
-
 "role": "Student",
 "introduction": "I'm a first year student doing the software development track in the IT major",
 "achievements": [
-  "achievement1", "I danced for 10 years"
-"achievement2", "I am part of the early IT program"
-],
-
+  "I danced for 10 years",
+  "I am part of the early IT program"
+]
 }
