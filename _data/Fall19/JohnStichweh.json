@@ -1,10 +1,9 @@
 {
-"emoji": ":goat:",
-"role": "Student",
-"introduction": "I am a third year at UC, I love table top gaming and most importantly I'm perpetually confused?",
-"achievements": [
-  "Not Much.",
-  "See First Achievment"
-],
-
+  "emoji": ":goat:",
+  "role": "Student",
+  "introduction": "I am a third year at UC, I love table top gaming and most importantly I'm perpetually confused?",
+  "achievements": [
+    "Not Much.",
+    "See First Achievment"
+  ]
 }
