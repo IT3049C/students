@@ -1,3 +1,4 @@
 exclude:
   - vendor
 class: IT2045C
+baseurl: "/students" # the subpath of your site, e.g. /blog
