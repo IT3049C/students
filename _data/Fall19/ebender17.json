@@ -1,14 +1,12 @@
 {
-"emoji": ":raised_hands",
-"role": "Student",
-"introduction": "My name is Emily Bender and I am a third year student at UC. This is my first year in IT where I am in the Software Development Track.",
-"achievements": [
-  "Danced for 13 years",
-  "Traveled to Australia and New Zealand"
-],
-"links": {
-
-  "linkedin": "www.linkedin.com/in/emily-bender-655934190",
-
-}
+  "emoji": ":raised_hands",
+  "role": "Student",
+  "introduction": "My name is Emily Bender and I am a third year student at UC. This is my first year in IT where I am in the Software Development Track.",
+  "achievements": [
+    "Danced for 13 years",
+    "Traveled to Australia and New Zealand"
+  ],
+  "links": {
+    "linkedin": "www.linkedin.com/in/emily-bender-655934190"
+  }
 }

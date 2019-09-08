@@ -1,14 +1,12 @@
 {
-"emoji": ":sleeping:",
-"role": "Student",
-"introduction": "I'm excited to learn more about programming this year",
-"achievements": [ 
-  "achievement1: Got an internship on the mainframe team at Worldpay",
-"achievement2: Went to states in track in high school"
-],
-"links": {
-  
-  "linkedin": "https://www.linkedin.com/in/peter-gabor-269b5a152",
-
-}
+  "emoji": ":sleeping:",
+  "role": "Student",
+  "introduction": "I'm excited to learn more about programming this year",
+  "achievements": [
+    "achievement1: Got an internship on the mainframe team at Worldpay",
+    "achievement2: Went to states in track in high school"
+  ],
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/peter-gabor-269b5a152"
+  }
 }

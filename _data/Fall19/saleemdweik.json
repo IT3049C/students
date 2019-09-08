@@ -1,15 +1,12 @@
 {
-"emoji": ":alien:",
-"role": "Student",
-"introduction": "I'm excited to learn about java as I've never done it before.",
-"achievements": [
-  "Made it to the national level for programming in competitions.",
-"Im doing the early IT track."
-],
-"links": {
-  "site": "LINK_TO_YOUR_WEBSITE",
-  "linkedin": "https://www.linkedin.com/in/saleem-dweik-b12b02191/",
-"facebook": "LINK_TO_YOUR_FACEBOOK_PROFILE",
-"twitter": "LINK_TO_YOUR_TWITTER_PROFILE",
-}
+  "emoji": ":alien:",
+  "role": "Student",
+  "introduction": "I'm excited to learn about java as I've never done it before.",
+  "achievements": [
+    "Made it to the national level for programming in competitions.",
+    "Im doing the early IT track."
+  ],
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/saleem-dweik-b12b02191/"
+  }
 }

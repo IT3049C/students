@@ -1,17 +1,14 @@
 {
   "emoji": ":simple_smile:",
   "role": "Student",
-  "introduction": "Hi. I am a third year here at UC. Originally starting of in
-  the engineering program, I am now on the software development track in the IT
-  program.",
+  "introduction": "Hi. I am a third year here at UC. Originally starting of in the engineering program, I am now on the software development track in the IT program.",
   "achievements": [
     "Won the award of most huggable pre-school camp counselor",
-    "For better or worse... the most innocent and uncultured 20 year olds
-    you'll ever meet",
+    "For better or worse... the most innocent and uncultured 20 year olds you'll ever meet",
     "That's it... I've done nothing special, hopefully one day I can add more."
   ],
   "links": {
     "facebook": "https://www.facebook.com/jacob.hornung99?ref=bookmarks",
     "twitter": "https://twitter.com/jake_hornung99"
-}
+  }
 }
