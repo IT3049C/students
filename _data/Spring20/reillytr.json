@@ -1,0 +1,12 @@
+{
+  "emoji": ":smile:",
+  "role": "Student",
+  "introduction": "I'm excited to learn more about computer programming and git.",
+  "achievements": [
+      "deans list",
+      "scholarship"
+  ],
+  "links": {
+      "linkedin": "https://www.linkedin.com/in/taylor-reilly-72920213a/"
+  }
+}
