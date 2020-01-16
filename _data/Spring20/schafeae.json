@@ -1,0 +1,13 @@
+{
+  "emoji": ":computer:",
+  "role": "Student",
+  "introduction": "My name is Anne Catherwood and I am majoring in IT with a Software Development Track",
+  "achievements": [
+      "4.0 GPA",
+      "Scholarships",
+	  "Employed as a Software Engineer at CoverMyMeds"
+  ],
+  "links": {
+      "linkedin": https://www.linkedin.com/in/anne-catherwood-678718141/",
+  }
+}
