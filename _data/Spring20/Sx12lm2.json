@@ -1,13 +1,12 @@
 {
   "emoji": ":+1:",
   "role": "Student",
-  "introduction": "I am a returning University of Cincinnati alumni and am taking a couple of courses in IT on the software application development track."
+  "introduction": "I am a returning University of Cincinnati alumni and am taking a couple of courses in IT on the software application development track.",
   "achievements": ["received a bachelor degree in French from the University of Cincinnati"  
     "I helped started a non profit organization called Care2Share",
     "I recently entered a model competition called Miss JetSet. I am currently in 6th place. You can vote for me in the link below :)"
   ],
   "links": {
-    "site":"https://jetsetmag.com/model-search/2020/laura-dejean?fbclid=IwAR0vuXtV7ffWkIf-ovq0HLReMXgMSsGRaIAo8jrlZxgMVXR2o_T0GFi7myc",
-    "linkedin":"",
+    "site":"https://jetsetmag.com/model-search/2020/laura-dejean?fbclid=IwAR0vuXtV7ffWkIf-ovq0HLReMXgMSsGRaIAo8jrlZxgMVXR2o_T0GFi7myc"
   }
 }
