@@ -1,0 +1,12 @@
+{
+  "emoji": ":musical_note:",
+  "role": "Student",
+  "introduction": "I'm looking forward to improving my skills and knowledge in programming.",
+  "achievements": [
+      "I am an Eagle Scout",
+      "I am on my second co-op currently in IT"
+  ],
+  "links": {
+      "linkedin": "www.linkedin.com/in/ben-romig-497a38179",
+  }
+}
