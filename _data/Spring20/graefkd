@@ -1,0 +1,14 @@
+{
+  "emoji": " :diamond_shape_with_a_dot_inside:",
+  "role": "Student",
+  "introduction": "Hello my name is Kyle, I am eager to learn more about Java & computer programming",
+  "achievements": [
+      "Got a new job at Kitchen 1883",
+      "Set to graduate in the fall",
+      "Bought a month's worth of groceries for under $40",
+      "Ate some bomb cheesecake"
+  ],
+  "links": {
+      "linkedin": "https://www.linkedin.com/in/kylegraef/",
+  }
+}
