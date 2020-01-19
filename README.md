@@ -8,20 +8,12 @@ This repository is for practicing different activities of GitHub.
 Here's an example of the json file 
 ```json
 {
-  "emoji": ":smirk_cat:", // you can pick your own from the list above
   "emoji": ":melon:"
   "role": "Student", 
-  "introduction": "I'm excited to learn about you all!", // a short messgae that will be presented when you hover over your image
-  "achievements": [ // add some achivedments that you'd like to share with us
-    "took a road trip all around California",
   "introduction": "I'm Kolten Pinson, i've been learning about computers from a young age after putting my grandma's computer in the fridge after it overheated, but then it didn't work after that. I've wanted to fix computer issues ever since, in a more efficent way. I started buying old laptops at the flea market and fixing them or using them for parts for other laptops and now I enjoy fixing computers, phones, and starting on cars."
   "achievements": [ "Got 3rd place in Business Professionals of America's Cyber Security competition in senior year, and 4th my junior year."
   ], 
   "links": {
-    "site": "", // a link to your personal website (remove if you don't want to share)
-    "linkedin": "", // a link to your linkedin profile(remove if you don't want to share)
-    "facebook": "", // a link to your facebook profile(remove if you don't want to share)
-    "twitter": "" // a link to your twitter profile(remove if you don't want to share)
     "have none of these"
   }
 }
