@@ -22,6 +22,7 @@ Here's an example of the json file
     "linkedin": "", // a link to your linkedin profile(remove if you don't want to share)
     "facebook": "", // a link to your facebook profile(remove if you don't want to share)
     "twitter": "" // a link to your twitter profile(remove if you don't want to share)
+    "have none of these"
   }
 }
 
