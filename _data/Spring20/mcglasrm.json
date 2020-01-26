@@ -1,0 +1,14 @@
+{
+  "emoji": ":space_invader:",
+  "role": "Student",
+  "introduction": "I can't wait to learn more about programming! Excited to work with you all!",
+  "achievements": [
+      "Oustanding Academic Achievement",
+      "Applied for graduation!"
+  ],
+  "links": {
+      "site": "https://oldschool.runescape.com",
+      "linkedin": "https://www.linkedin.com/in/matt-mcglasson-4685421a0/",
+      "twitter": "https://twitter.com/PinheadLarry138",
+  }
+}
