@@ -9,6 +9,9 @@ $(function() {
       dataType: 'json',
       timeout: 2000,
       cache: true,
+      headers: [
+        "Authorization: token ebd5f42679c3b98760b723fd5806896479f439c6"
+      ],
       success: function(data) {
         console.log(data)
         $avatar.attr('src', data.avatar_url);
