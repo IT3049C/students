@@ -1,0 +1,16 @@
+{
+  "emoji": ":smile:",
+  "role": "Student",
+  "introduction": "I'm excited to learn java and prepare myself for Java exam from oracle this summer!",
+  "achievements": [
+    "I have graduated from University of Massachusetts with Chemistry and Math major",
+    "I am currently working as Chemist in one of the chemical company",
+    "I am currently on a associate degree program for Information Technology",
+    " I am trying to get a certificate for SQL and Java"
+  ],
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/santi-dahal-60135414a/",
+    "facebook": "https://www.facebook.com/santi3392",
+    "twitter": "https://twitter.com/santi_dahal"
+  }
+}
