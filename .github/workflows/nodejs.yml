@@ -1,0 +1,27 @@
+name: Assignment Checks
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [12.x]
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Setting up Env on Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v1
+      with:
+        node-version: ${{ matrix.node-version }}
+    - name: Installing Dependencies
+      run: npm install
+    - name: Run Build Step if it exisits
+      run: npm run build --if-present
+    - name: Run Assignment Checks
+      run: npm test
+      env:
+        CI: true

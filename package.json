@@ -1,0 +1,17 @@
+{
+  "name": "students",
+  "version": "1.0.0",
+  "description": "students portolio",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "directory-tree": "^2.2.4",
+    "jest": "^25.1.0",
+    "jest-json-schema": "^2.1.0"
+  },
+  "jest": {
+    "clearMocks": true,
+    "testEnvironment": "node"
+  }
+}
