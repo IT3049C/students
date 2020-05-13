@@ -1,0 +1,13 @@
+   {
+       "emoji": ":shark:",
+       "role": "Student",
+       "introduction": "I am a software development student in the class of 2023. I really enjoy front-end design, but I am interested in all aspects of technology",
+       "achievements": [
+           "Passed all my classes last semester",
+           "Read a couple books"
+       ],
+       "links": {
+           "site": "https://it3049c-summer20.github.io/1-online-portfolio-petromw/",
+           "linkedin": "https://www.linkedin.com/in/mark-petro-7b836b183",
+       }
+   }
