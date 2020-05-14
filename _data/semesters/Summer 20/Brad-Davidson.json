@@ -1,0 +1,13 @@
+ {
+       "emoji": ":trumpet:",
+       "role": "Student",
+       "introduction": "I'm excited to learn about you all!",
+       "achievements": [
+           "Recieved the Neil Armstrong UC Forward Innovation Award",
+           "I have a black belt in Taekwondo"
+       ],
+       "links": {
+           "site": "https://it3049c-summer20.github.io/1-online-portfolio-Brad-Davidson/",
+           "linkedin": "https://www.linkedin.com/in/bradley-davidson/",
+       }
+   }
