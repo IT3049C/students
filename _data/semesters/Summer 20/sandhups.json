@@ -1,0 +1,13 @@
+   {
+       "emoji": ":octocat:",
+       "role": "Student",
+       "introduction": "I think this class will be awesome!!!",
+       "achievements": [
+           "Dean's List",
+           "Completed Spring Semester"
+       ],
+       "links": {
+           "site": "https://it3049c-summer20.github.io/1-online-portfolio-sandhups/",
+           "linkedin": "www.linkedin.com/in/paramjyot-s-947251141",
+       }
+   }
