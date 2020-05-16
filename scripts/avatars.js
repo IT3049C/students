@@ -10,7 +10,7 @@ $(function() {
       timeout: 2000,
       cache: true,
       headers: {
-        "Authorization": "token a20e98005f0a5ea463585b918ac9d212d4852b6b"
+        "Authorization": "token 7a206694a49eb96f70c57057db40e4ed07b03137"
       },
       success: function(data) {
         console.log(data)
