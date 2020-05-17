@@ -1,0 +1,12 @@
+{
+       "emoji": ":bowtie:",
+       "role": "Student",
+       "introduction": "Hi everyone! Im Matthew Saling. Im a second year IT student with a Game Development and Software Development track. I am super excited for this semester.",
+       "achievements": [
+           "I applied and got a job for the summer",
+           "I have gotten all A's the past two semesters after a horrid first year of engineering classes"
+       ],
+       "links": {
+           "site": "https://github.com/salingmw"
+       }
+   }
