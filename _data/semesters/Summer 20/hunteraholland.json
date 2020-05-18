@@ -1,0 +1,15 @@
+{
+       "emoji": ":joy:",
+       "role": "Student",
+       "introduction": "I'm looking forward to this semester!",
+       "achievements": [
+           "Dean's List",
+           "Created my first Spring Boot application in the spring"
+       ],
+       "links": {
+           "site": "https://it3049c-summer20.github.io/1-online-portfolio-hunteraholland/",
+           "linkedin": "https://www.linkedin.com/in/hunter-holland-243392142/",
+           "facebook": "https://www.facebook.com/hunter.holland.75098",
+           "twitter": "https://twitter.com/HuntHolland12",
+       }
+   }
