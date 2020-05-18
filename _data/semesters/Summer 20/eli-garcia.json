@@ -1,0 +1,15 @@
+{
+    "emoji": ":seedling:",
+    "role": "Student",
+    "introduction": "Hi. I'm Eli. My short term goal is to be a full stack developer. My long term goal is to eat a bag of jumbo marshmallows in under one minute.",
+    "achievements": [
+        "I'm almost done with BSIT, triple track. No more networking or cybersec courses left for me to take, only Ent App Dev left to take after this course.",
+        "CECH Deans list every semester",
+        "Finished first CoOp with Kroger R&D",
+        "Finished Netflix. All of it."
+    ],
+    "links": {
+        "site": "https://it3049c-summer20.github.io/1-online-portfolio-eli-garcia/",
+        "twitter": "https://www.linkedin.com/in/eli-garcia-it/"
+    }
+}
