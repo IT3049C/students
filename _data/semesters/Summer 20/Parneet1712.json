@@ -1,0 +1,14 @@
+   {
+       "emoji": ":smirk_cat:",
+       "role": "Student",
+       "introduction": "I am Parneet Kang. I am student at UC majoring in IT in Software Development track. I am really looking 
+       forward to learn new things from this course",
+       "achievements": [
+           "Dean List",
+           "Passed all the classes in Spring 2020"
+       ],
+       "links": {
+           "site": "https://it3049c-summer20.github.io/1-online-portfolio-Parneet1712/",
+           "linkedin": "http://linkedin.com/in/parneet-kang-3b97aa158",
+       }
+   }
