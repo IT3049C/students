@@ -1,0 +1,13 @@
+{
+       "emoji": ":ok_hand:",
+       "role": "Student",
+       "introduction": "I'm Atharva, I'm an International student at UC. I'm a second year studying software development.",
+       "achievements": [
+           "Participated in Google Code.In",
+           "Participated in Hackathon at UC"
+       ],
+       "links": {
+           "site": "https://it3049c-summer20.github.io/1-online-portfolio-Atharva-Chalke/",
+           "linkedin": "https://www.linkedin.com/in/atharva-chalke-10210a191/"
+       }
+}
