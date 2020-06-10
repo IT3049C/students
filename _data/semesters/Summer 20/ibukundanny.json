@@ -1,10 +1,10 @@
  {
        "emoji": ":smile:",
        "role": "Student",
-       "introduction": "My name is Ibukun Daniel, I am going to my third year here at UC, nice to meet yo all",
+       "introduction": "My name is Ibukun Daniel, I am going to my third year here at UC, nice to meet you all",
        "achievements": [
            "Got into honors",
-           "caught up to school work"
+           "Deans List"
        ],
        "links": {
            "site": "https://github.com/ibukundanny/students.git",
