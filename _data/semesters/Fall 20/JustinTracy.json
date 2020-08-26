@@ -1,0 +1,14 @@
+{
+       "emoji": "👀",
+       "role": "Student",
+       "introduction": "I am a third year IT student on the software development track",
+       "achievements": [
+           "Made the dean's list"
+       ],
+       "links": {
+           "site": "LINK_TO_YOUR_WEBSITE",
+           "linkedin": "https://www.linkedin.com/in/justin-tracy-442649182/",
+           "facebook": "LINK_TO_YOUR_FACEBOOK_PROFILE",
+           "twitter": "LINK_TO_YOUR_TWITTER_PROFILE",
+       }
+   }
