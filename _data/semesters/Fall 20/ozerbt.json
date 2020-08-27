@@ -1,0 +1,15 @@
+   {
+       "emoji": ":sleepy:",
+       "role": "Student",
+       "introduction": "Hello! My name is Behcet Ozer and I am in the Software Development track currently at a pre-junior level. I came from Turkey in 2012 and have been here ever since. I am looking forward to form new friendships with fellow classmates as well as learn how to make cool front-end web based games!",
+       "achievements": [
+           "worker at Peel9",
+           "Core Educational Services mentor"
+       ],
+       "links": {
+           "site": "https://it3049c-fall20.github.io/1-online-portfolio-ozerbt/",
+           "linkedin": "https://www.linkedin.com/in/behcet-ozer-66421b175/",
+           "facebook": "N/A",
+           "twitter": "N/A",
+       }
+   }
