@@ -1,0 +1,15 @@
+   {
+       "emoji": ":mask:",
+       "role": "Student",
+       "introduction": "Hello! My name is Xavier and I look forward to working with you all!",
+       "achievements": [
+           "OHSAA Hockey State Champion",
+           "Certified Sky Diver"
+       ],
+       "links": {
+           "site": "https://it3049c-fall20.github.io/1-online-portfolio-baszukxj/",
+           "linkedin": "https://www.linkedin.com/in/xavier-baszuk-98754117a/",
+           "facebook": "https://facebook.com",
+           "twitter": "https://twitter.com"
+       }
+   }
