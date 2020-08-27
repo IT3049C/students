@@ -1,0 +1,13 @@
+   {
+       "emoji": ":smirk_cat:",
+       "role": "Student",
+       "introduction": "I'm looking forward to learning more about JS, HTML and CSS. Can't wait to start!",
+       "achievements": [
+           "Created a mobile app on the app store. (Dashed!)",
+           "Dean's list "
+       ],
+       "links": {
+           "site": "https://it3049c-fall20.github.io/1-online-portfolio-jabennett1515/",
+           "linkedin": "https://www.linkedin.com/in/jacob-bennett-b48a21198/",
+       }
+   }
