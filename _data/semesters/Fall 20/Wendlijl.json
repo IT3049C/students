@@ -1,0 +1,13 @@
+{
+       "emoji": ":squirrel:",
+       "role": "Student",
+       "introduction": "Hey there, I'm John Wendling, and I'm really excited to learn about web game development!",
+       "achievements": [
+           "Recently learned how to create and host webpages on GitHub (very recently)",
+           "Learned sewing and leatherworking so I could make a Breath of the Wild costume"
+       ],
+       "links": {
+           "site": "https://it3049c-fall20.github.io/1-online-portfolio-Wendlijl/",
+           "linkedin": "https://www.linkedin.com/in/john-wendling-45085b187/",
+       }
+   }
