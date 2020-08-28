@@ -1,0 +1,14 @@
+{
+       "emoji": ":smiling_imp:",
+       "role": "Student",
+       "introduction": "I'm ready to do my best in this course!",
+       "achievements": [
+           "Programed a robot in my second engineering class before switching",
+           "In my Javascript class in spring semester, I made TicTacToe"
+       ],
+       "links": {
+           "site": "https://github.com/IT3049C-Fall20/1-online-portfolio-arthursr01",
+           "linkedin": "https://www.linkedin.com/in/sean-arthur-96aa36197/",
+        
+       }
+   }
