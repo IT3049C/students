@@ -1,0 +1,13 @@
+ {
+     "emoji": ":snowman:",
+     "role": "Student",
+     "introduction": "Hello, I'm Seth White! Currently a Junior at UC on the IT software development Track. Ready to learn about JS Development!",
+     "achievements": [
+         "Got an Aussie Puppy",
+         "Can't think of anything...",
+     ],
+     "links": {
+         "site": "https://it3049c-fall20.github.io/1-online-portfolio-sethwhite3/",
+         "linkedin": "https://www.linkedin.com/in/sethwhite1/",
+     }
+ }
