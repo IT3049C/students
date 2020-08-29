@@ -1,0 +1,13 @@
+{
+       "emoji": ":sunglasses:",
+       "role": "Student",
+       "introduction": "I'm excited to learn more about Web Game Development!",
+       "achievements": [
+           "Made the Dean's List at UC for 2 semesters",
+           "Eagle Scout"
+       ],
+       "links": {
+           "site": "https://github.com/erswagner7",
+           "linkedin": "https://www.linkedin.com/in/erich-wagner-35022a160/"
+       }
+   }
