@@ -1,0 +1,14 @@
+ {
+       "emoji": ":computer:",
+       "role": "Student",
+       "introduction": "I'm excited to learn about Web Game design!",
+       "achievements": [
+           "Got married two years ago!",
+           "Purchased a home and move in October!"
+       ],
+       "links": {
+           "site": "https://it3049c-fall20.github.io/1-online-portfolio-kellej6/",
+           "linkedin": "https://www.linkedin.com/in/jason-keller-a8483690/",
+           "facebook": "https://www.facebook.com/GeminiWarrior",
+       }
+   }
