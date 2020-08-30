@@ -1,0 +1,13 @@
+{
+       "emoji": ":two_hearts:",
+       "role": "Student",
+       "introduction": "I'm excited for this class!",
+       "achievements": [
+           "Got to level 40 in Mario Kart",
+           "Learned to make Korean BBQ"
+       ],
+       "links": {
+           "site": "https://it3049c-fall20.github.io/1-online-portfolio-mendezmh11/",
+           "linkedin": "https://www.linkedin.com/in/mariah-mendez-851145197/",
+       }
+   }
