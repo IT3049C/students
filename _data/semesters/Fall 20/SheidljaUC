@@ -1,0 +1,15 @@
+{
+       "emoji": ":smirk_cat:",
+       "role": "Student",
+       "introduction": "I'm excited to hopefully meet you all!",
+       "achievements": [
+           "Made a card game first semester of last year.",
+           "Excellent dancer, apparently."
+       ],
+       "links": {
+           "site": "https://github.com/IT3049C-Fall20/1-online-portfolio-sheidlja",
+           "linkedin": "https://www.linkedin.com/in/jacob-sheidler-536372197/",
+           "facebook": "LINK_TO_YOUR_FACEBOOK_PROFILE",
+           "twitter": "LINK_TO_YOUR_TWITTER_PROFILE",
+       }
+   }
