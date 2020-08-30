@@ -1,0 +1,14 @@
+{
+       "emoji": ":sleepy:",
+       "role": "Student",
+       "introduction": "I'm excited to learn about you all!",
+       "achievements": [
+           "I have learned some of the stuff related to android.",
+           "Made few basic games like tic tac toe in android"
+           
+       ],
+       "links": {
+           "site": "https://github.com/IT3049C-Fall20/1-online-portfolio-hussaimi.git",
+           "linkedin": "https://www.linkedin.com/in/muhammad-moiz-hussain-a80871173/",
+       }
+ }
