@@ -1,0 +1,13 @@
+{
+       "emoji": "::arrow_down_small:",
+       "role": "Student",
+       "introduction": "Hello world",
+       "achievements": [
+           "none",
+           "none again"
+       ],
+       "links": {
+           "site": "https://github.com/IT3049C-Fall20/1-online-portfolio-myersnt",
+      
+       }
+   }
