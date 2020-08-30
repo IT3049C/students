@@ -1,0 +1,15 @@
+{ 
+   "emoji" : ":alien:",
+   "role" : "Student",
+   "Introduction": "It is no wonder that truth is stranger than fiction. Fiction has to make sense. Mark Twain!",
+   "achievements": [
+           "Created Standup Tracker with a team",
+           "Bought my first house"
+           ],
+           "links": {
+                  "site": "http://127.0.0.1:5500/index.html",
+                  "linkedin": "https://www.linkedin.com/in/ahmyouss66725535/",
+                 
+              }
+        }      
+        
