@@ -1,1 +1,15 @@
 
+ {
+       "emoji": ":satisfied:",
+       "role": "Student",
+       "introduction": "I am excited to learn about web game development!",
+       "achievements": [
+           "Created a component for a menu for the entire site at my workplace.",
+           "Added a workflow to another workflow so there was another section on the page."
+       ],
+       "links": {
+           "site": "https://it3049c-fall20.github.io/1-online-portfolio-eccentricerror/",
+           "linkedin": "https://www.linkedin.com/in/blakeianwarner/",
+           
+       }
+   }
