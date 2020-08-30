@@ -1,0 +1,13 @@
+ {
+       "emoji": ":mask:",
+       "role": "Student",
+       "introduction": "Coding is fun, I hope everyone thinks so!",
+       "achievements": [
+           "Created an app with a group in the Apple App Store",
+           "Was accepeted into the IT early masters program"
+       ],
+       "links": {
+           "site": "https://it3049c-fall20.github.io/1-online-portfolio-jbarr-code/",
+           "linkedin": "https://www.linkedin.com/in/jack-barr-2912b2173/"
+       }
+   }
