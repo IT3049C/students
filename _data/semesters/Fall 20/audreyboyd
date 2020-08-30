@@ -1,0 +1,14 @@
+   {
+       "emoji": ":lion:",
+       "role": "Student",
+       "introduction": "I'm excited to learn more about web development!",
+       "achievements": [
+           "Made Dean's List 4 semesters in a row",
+           "Created a commercial web app"
+       ],
+       "links": {
+           "GitHub": "https://github.com/IT3049C-Fall20/1-online-portfolio-audreyboyd",
+           "linkedin": "https://www.linkedin.com/in/audreyboydsoftwaredev/",
+           "facebook": "https://www.facebook.com/audreyboyd13/"
+       }
+   }
