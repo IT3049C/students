@@ -1,0 +1,13 @@
+   {
+       "emoji": ":cd:",
+       "role": "Student",
+       "introduction": "Hi, I'm Corey and I like coffee and music!",
+       "achievements": [
+           "IT Consultant at Lindner IT Service Desk",
+           "Host of Grand Prix Radio on Bearcast Media"
+       ],
+       "links": {
+           "site": "https://it3049c-fall20.github.io/1-online-portfolio-zahercj/",
+           "linkedin": "https://www.linkedin.com/in/zahercj/",
+       }
+   }
