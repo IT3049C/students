@@ -1,0 +1,15 @@
+{
+     "emoji": ":dragon:",
+     "role": "Student",
+     "introduction": "My name is Brendan Root and I'm an IT major on the Software Development track going into my third year.",
+     "achievements": [
+         "Recently learned Vue.js",
+         "Learned a lot of the JS Google APIs",
+         "Recently bought a new XLR mic (AT2035)"
+     ],
+     "links": {
+         "site": "https://brendanroot.com",
+         "linkedin": "https://www.linkedin.com/in/brendanbroot/",
+         "twitter": "https://twitter.com/12brendan3",
+     }
+ }
