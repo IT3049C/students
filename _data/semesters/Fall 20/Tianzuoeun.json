@@ -1,13 +1,13 @@
    {
-       "emoji": ":ok_hand:",
-       "role": "Student",
-       "introduction": "I'm looking forward to having a great semester with you all!",
+       "emoji": ":ok_hand:"
+       "role": "Student"
+       "introduction": "I'm looking forward to having a great semester with you all!"
        "achievements": [
-           "Joined the Evaluation of Smart-Cities Technologies and Proposed UV Lifestyles research program in MIT.",
+           "Joined the Evaluation of Smart-Cities Technologies and Proposed UV Lifestyles research program in MIT."
            "League of Lengends ranked to Diamond2"
-       ],
+       ]
        "links": {
-           "site": "https://github.com/IT3049C-Fall20/1-online-portfolio-Tianzuoeun",
-           "linkedin": "https://www.linkedin.com/in/huangtz/",
+           "site": "https://github.com/IT3049C-Fall20/1-online-portfolio-Tianzuoeun"
+           "linkedin": "https://www.linkedin.com/in/huangtz/"
        }
    }
