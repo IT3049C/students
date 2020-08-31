@@ -1,0 +1,11 @@
+       "emoji": ":trollface:",
+       "role": "Student",
+       "introduction": "Web Game Development is going to be FUN",
+       "achievements": [
+           "Angular Dashboard For Co-op",
+           "Video Editing Awards in HS"
+       ],
+       "links": {
+           "site": "https://github.com/pittTrippman",
+           "twitter": "https://twitter.com/PittmanTripp",
+       }
