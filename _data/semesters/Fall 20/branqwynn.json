@@ -1,0 +1,15 @@
+   {
+       "emoji": ":simple-smile:",
+       "role": "Student",
+       "introduction": "My name is Brandon Nguyen and I'm looking forward for this semester.",
+       "achievements": [
+           "achievement1",
+           "achievement2"
+       ],
+       "links": {
+           "site": "LINK_TO_YOUR_WEBSITE",
+           "linkedin": "LINK_TO_YOUR_LINKEDIN_PROFILE",
+           "facebook": "LINK_TO_YOUR_FACEBOOK_PROFILE",
+           "twitter": "LINK_TO_YOUR_TWITTER_PROFILE",
+       }
+   }
