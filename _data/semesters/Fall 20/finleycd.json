@@ -1,0 +1,13 @@
+   {
+       "emoji": ":smirk_cat:",
+       "role": "Student",
+       "introduction": "I'm excited to do stuff! We got this!",
+       "achievements": [
+           "achievement1" I just beat my friends in a game of EDH. ,
+           "achievement2" I can deadlift 425...Idk what to have here.
+       ],
+       "links": {
+           "site": "https://github.com/finleycd",
+           
+       }
+   }
