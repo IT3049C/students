@@ -1,0 +1,13 @@
+   {
+       "emoji": ":school:",
+       "role": "Student",
+       "introduction": "Non-traditional college student",
+       "achievements": [
+           "4.5 years working in IT@UC",
+           "Building a 275 sq ft patio completely by hand"
+       ],
+       "links": {
+           "site": "https://it3049c-fall20.github.io/1-online-portfolio-bojesphob/",
+           "linkedin": "https://www.linkedin.com/in/joe-schmidt-010a039/"
+       }
+   }
