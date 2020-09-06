@@ -1,0 +1,15 @@
+   {
+       "emoji": ":see_no_evil:",
+       "role": "Student",
+       "introduction": "Hey all! My name is jamal brown!",
+       "achievements": [
+           "Became really good at Black Desert Online",
+           "Move into our new house and really improved as a person during this summer"
+       ],
+       "links": {
+           "site": "https://it3049c-fall20.github.io/1-online-portfolio-Milly2CB/",
+           "linkedin": "LINK_TO_YOUR_LINKEDIN_PROFILE",
+           "facebook": "LINK_TO_YOUR_FACEBOOK_PROFILE",
+           "twitter": "LINK_TO_YOUR_TWITTER_PROFILE",
+       }
+   }
