@@ -27,15 +27,15 @@ describe(`folder structure`, function () {
     const directoryTree = dirTree(`${__dirname}/../_data/semesters`);
     const nodes = directoryTree.children.map(node => node.name);
 
-    expect(nodes).toContain(`Summer 20`);
+    expect(nodes).toContain(`Fall 20`);
     expect(directoryTree.children.length).toBeGreaterThanOrEqual(1);
   });
 
   test(`scripts directory includes one index.js files`, () => {
-    const directoryTree = dirTree(`${__dirname}/../_data/semesters/Summer 20`);
+    const directoryTree = dirTree(`${__dirname}/../_data/semesters/Fall 20`);
     const nodes = directoryTree.children.map(node => node.name);
 
-    expect(nodes).toContain(`test.json`);
+    expect(nodes).toContain(`Bodensjr.json`);
     expect(directoryTree.children.length).toBeGreaterThanOrEqual(1);
   });
 
