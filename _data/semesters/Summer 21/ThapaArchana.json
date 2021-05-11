@@ -1,0 +1,13 @@
+   {
+       "emoji": ":Face_with_Tears_of_Joy:",
+       "role": "Student",
+       "introduction": "My Name is Archana Thapa. I am a Junior and my major is Software development!",
+       "achievements": [
+           "Dean's List",
+           "Member of honor society "
+       ],
+       "links": {
+           "site": "https://github.com/IT3049C-Students/1-online-portfolio-ThapaArchana",
+           "linkedin": "https://www.linkedin.com/in/archana-thapa/",
+       }
+   }
