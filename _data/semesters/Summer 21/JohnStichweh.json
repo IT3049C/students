@@ -1,0 +1,14 @@
+{
+       "emoji": ":goat:",
+       "role": "Student",
+       "introduction": "I am excited for the summer semester!",
+       "achievements": [
+           "Got Vaccinated for COVID-19",
+           "Had a very successful Co-Op last semester"
+       ],
+       "links": {
+           "site": "https://it3049c-students.github.io/1-online-portfolio-JohnStichweh/",
+           "linkedin": "https://www.linkedin.com/in/johnstichweh/",
+           
+       }
+   }
