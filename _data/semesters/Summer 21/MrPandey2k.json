@@ -1,0 +1,14 @@
+   {
+       "emoji": ":sunglasses:",
+       "role": "Student",
+       "introduction": "Hello! Looking foward to start the semester!",
+       "achievements": [
+           "Bought a new car in the pst couple months",
+           "First paid experince this past spring"
+       ],
+       "links": {
+           "site": "https://it3049c-students.github.io/1-online-portfolio-MrPandey2k/",
+           "linkedin": "www.linkedin.com/in/anand-pandey-2k",
+           "instagram": "https://www.instagram.com/da.real_mr.pandey/",
+       }
+   }
