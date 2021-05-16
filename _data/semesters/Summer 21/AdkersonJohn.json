@@ -1,0 +1,15 @@
+{
+       "emoji": ":expressionless:",
+       "role": "Student",
+       "introduction": "Learning is fun. LETS GOOOOO!!!",
+       "achievements": [
+           "Landed a position at the UC College of Business",
+           "Dean's list during my entire college career",
+           "3rd place in online district wide Hackathon @ UC Clermont",
+       ],
+       "links": {
+           "site": "https://it3049c-students.github.io/1-online-portfolio-AdkersonJohn/",
+           "linkedin": "www.linkedin.com/in/john-adkerson-63a0171b0",
+           "facebook": "https://www.facebook.com/john.adkerson.7/"
+       }
+   }
