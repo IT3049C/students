@@ -1,0 +1,16 @@
+   {
+       "emoji": ":smile:",
+       "role": "Student",
+       "introduction": "Hey everyone! Let's make it a good and productive summer!",
+       "achievements": [
+           "Developed a front-end web application to allow for payments over the phone with my co-op",
+           "Made an API/web service with back-end to store information on other internal company APIs",
+           "Made it to my final year of college!"
+       ],
+       "links": {
+           "site": "https://it3049c-students.github.io/1-online-portfolio-hornunjb/",
+           "linkedin": "https://www.linkedin.com/in/jacobhornung/",
+           "facebook": "https://www.facebook.com/jacob.hornung99",
+           "twitter": "https://twitter.com/jake_hornung99",
+       }
+   }
