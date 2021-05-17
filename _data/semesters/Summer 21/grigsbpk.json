@@ -1,0 +1,13 @@
+  {
+       "emoji": ":no_mouth:",
+       "role": "Student",
+       "introduction": "Hello! This is not the Krusty Krab!",
+       "achievements": [
+           "I placed highly in a game development competition.",
+           "I completed my EEP last semester."
+       ],
+       "links": {
+           "site": "https://it3049c-students.github.io/1-online-portfolio-grigsbpk/",
+           
+       }
+   }
