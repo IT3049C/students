@@ -1,0 +1,14 @@
+   {
+       "emoji": ":relieved:",
+       "role": "Student",
+       "introduction": "I'm excited to learn about you all!",
+       "achievements": [
+          <li>Visited Nicaragua</li>
+          <li>Free climbing cliffsides</li>
+       ],
+       "links": {
+           "site": "https://github.com/IT3049C-Students/1-online-portfolio-AustinGarrison/blob/master/index.html",
+           "linkedin": "https://www.linkedin.com/in/garrisonaustin95/",
+           "instagram": "https://www.instagram.com/austingaryson/",
+       }
+   }
