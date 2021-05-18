@@ -1,0 +1,12 @@
+ {
+       "emoji": ":seedling:",
+       "role": "Student",
+       "introduction": "Send me your best margarita recipe for the summer of freedom.",
+       "achievements": [
+           "Made some brioche",
+           "Ate some brioche"
+       ],
+       "links": {
+           "site": "https://uceli.github.io/"         
+       }
+   }
