@@ -1,0 +1,13 @@
+{
+       "emoji": ":laughing:",
+       "role": "Student",
+       "introduction": "My name is Matthew Dumford. I am excited for this class!",
+       "achievements": [
+           "Dean's List Recipient for Fall 2020",
+           "Signed my first lease!"
+       ],
+       "links": {
+           "site": "https://it3049c-students.github.io/1-online-portfolio-dumforms/",
+           "linkedin": "https://www.linkedin.com/in/matthew-dumford/"
+       }
+   }
