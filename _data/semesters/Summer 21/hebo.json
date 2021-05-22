@@ -1,13 +1,12 @@
 {
-       "emoji": ":no_mouth:",
-       "role": "Student",
-       "introduction": "What's up",
-       "achievements": [
-           "Dota2 highschool league No.2 place",
-           "Finished my highschool"
-       ],
-       "links": {
-           "site": "https://it3049c-students.github.io/1-online-portfolio-bentaohe/",
-          
-       }
-   }
+  "emoji": ":no_mouth:",
+  "role": "Student",
+  "introduction": "What's up",
+  "achievements": [
+    "Dota2 highschool league No.2 place",
+    "Finished my highschool"
+  ],
+  "links": {
+    "site": "https://it3049c-students.github.io/1-online-portfolio-bentaohe/"
+  }
+}
