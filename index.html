@@ -63,8 +63,8 @@ title: IT3049C
 <div class="container">
 
 
-  {% assign semesters = site.data.semesters | sort | reverse %}
-  {% for folder in semesters %}
+  {% assign semesters = site.data.semesters | sort %}
+  {% for folder in semesters reversed %}
   {% assign semester = folder[1] %}
   <div class="row">
     <h3>
