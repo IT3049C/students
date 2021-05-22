@@ -1,0 +1,13 @@
+ {
+       "emoji": ":sunglasses:",
+       "role": "Student",
+       "introduction": "Hi Everyone! Looking forward to class with you all!",
+       "achievements": [
+           "Eagle Scout",
+           "Accelerated IT"
+       ],
+       "links": {
+           "site": "https://it3049c-fall20.github.io/1-online-portfolio-TrentMcGinnis/",
+           "linkedin": "https://www.linkedin.com/in/trent-mcginnis-74477016b/"
+       }
+   }

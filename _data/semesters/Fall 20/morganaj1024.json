@@ -1,0 +1,14 @@
+{
+       "emoji": ":dog:",
+       "role": "Student",
+       "introduction": "There's always more to learn.",
+       "achievements": [
+           "Associate's Degree in Computer Engineering Technology - CTC 1994",
+           "Successful fishing trip to Drummond Island in Michigan"
+       ],
+       "links": {
+           "site": "https://it3049c-fall20.github.io/1-online-portfolio-morganaj1024/",
+           "linkedin": "https://www.linkedin.com/in/tony-morgan-00007221/",
+                     
+       }
+   }
