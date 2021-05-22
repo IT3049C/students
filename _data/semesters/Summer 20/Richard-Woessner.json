@@ -1,0 +1,12 @@
+{
+       "emoji": " :metal:",
+       "role": "Student",
+       "introduction": "Hello Everyone",
+       "achievements": [
+           "I got this far",
+           "Planning of going further"
+       ],
+       "links": {
+           "linkedin": "https://www.linkedin.com/in/richard-woessner/"
+       }
+   }
