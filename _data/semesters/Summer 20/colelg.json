@@ -1,0 +1,15 @@
+   {
+       "emoji": ":trollface:",
+       "role": "Student",
+       "introduction": "Hey everyone! I'm Logan, I put the cereal in the bowl before the milk, order pineapple on my pizza and have a dog named goafer. I have 4 fingers on my right hand, but I make up for it with 11 toes. (guess which foot) I like my sandwiches boneless, and my apples worm-in",
+       "achievements": [
+           "Ranked top 100,000 in Minecraft globally!",
+           "I have the costco executive card!",
+           "I have 1.4M subscribers on youtube!"           
+       ],
+       "links": {
+           "site": "github.com/colelg",
+           "linkedin": "www.linkedin.com/in/loganscole",
+           "youtube": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",         
+       }
+   }
