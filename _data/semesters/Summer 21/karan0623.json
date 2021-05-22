@@ -1,15 +1,14 @@
- {
-       "emoji": ":yellow_heart:",
-       "role": "Student",
-       "introduction": "Hello my name is karan patel and I am excited to take this course and expand my knowledge!",
-       "achievements": [
-           "Finished my First Co-op",
-           "Partnered for two new business",
-           "Made deans list"
-       ],
-       "links": {
-           "site": "https://it3049c-students.github.io/1-online-portfolio-karan0623/",
-           "linkedin": "www.linkedin.com/in/karan0623",
-
-       }
-   }
+{
+  "emoji": ":yellow_heart:",
+  "role": "Student",
+  "introduction": "Hello my name is karan patel and I am excited to take this course and expand my knowledge!",
+  "achievements": [
+    "Finished my First Co-op",
+    "Partnered for two new business",
+    "Made deans list"
+  ],
+  "links": {
+    "site": "https://it3049c-students.github.io/1-online-portfolio-karan0623/",
+    "linkedin": "www.linkedin.com/in/karan0623"
+  }
+}

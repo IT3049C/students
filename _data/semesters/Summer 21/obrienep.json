@@ -1,15 +1,15 @@
-   {
-       "emoji": ":heart:",
-       "role": "Student",
-       "introduction": "I hope you're all doing good in your online classes!",
-       "achievements": [
-           "Have 90+ hours working with Blender and the Unity game engine",
-           "Experience in creating and modifying 3D character models within Blender"
-       ],
-       "links": {
-           "site": "https://it3049c-students.github.io/1-online-portfolio-obrienep/",
-           "linkedin":"https://www.linkedin.com/in/evanobrienatuc/",
-           "facebook": "LINK_TO_YOUR_FACEBOOK_PROFILE",
-           "twitter": "LINK_TO_YOUR_TWITTER_PROFILE",
-       }
-   }
+{
+  "emoji": ":heart:",
+  "role": "Student",
+  "introduction": "I hope you're all doing good in your online classes!",
+  "achievements": [
+    "Have 90+ hours working with Blender and the Unity game engine",
+    "Experience in creating and modifying 3D character models within Blender"
+  ],
+  "links": {
+    "site": "https://it3049c-students.github.io/1-online-portfolio-obrienep/",
+    "linkedin": "https://www.linkedin.com/in/evanobrienatuc/",
+    "facebook": "LINK_TO_YOUR_FACEBOOK_PROFILE",
+    "twitter": "LINK_TO_YOUR_TWITTER_PROFILE"
+  }
+}

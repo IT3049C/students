@@ -1,13 +1,13 @@
-   {
-       "emoji": ":sunglasses:",
-       "role": "Student",
-       "introduction": "I am diagnosed quirky",
-       "achievements": [
-           "Section Leader in Bearcat Bands trumpet section",
-           "Spelling Bee Champion ;)"
-       ],
-       "links": {
-           "site": "https://it3049c-students.github.io/1-online-portfolio-seamonbp/",
-           "linkedin": "https://www.linkedin.com/in/benjamin-seamon/"
-       }
-   }
+{
+  "emoji": ":sunglasses:",
+  "role": "Student",
+  "introduction": "I am diagnosed quirky",
+  "achievements": [
+    "Section Leader in Bearcat Bands trumpet section",
+    "Spelling Bee Champion ;)"
+  ],
+  "links": {
+    "site": "https://it3049c-students.github.io/1-online-portfolio-seamonbp/",
+    "linkedin": "https://www.linkedin.com/in/benjamin-seamon/"
+  }
+}
