@@ -14,7 +14,7 @@ title: IT3049C
     {% for user_hash in instructor %}
     {% assign username = user_hash[0] %}
     {% assign user = user_hash[1] %}
-    <div class="col-md-4 col-sm-4 js-student" data-username="{{username}}">
+    <div class="col-md-3 col-sm-3 js-student" data-username="{{username}}">
       <div class="team-member">
         <div class="team-img">
           <img class="img-responsive js-avatar" src="">
@@ -63,7 +63,7 @@ title: IT3049C
 <div class="container">
 
 
-  {% assign semesters = site.data.semesters | sort %}
+  {% assign semesters = site.data.semesters | sort | reverse %}
   {% for folder in semesters %}
   {% assign semester = folder[1] %}
   <div class="row">
@@ -75,7 +75,7 @@ title: IT3049C
     {% assign username = user_hash[0] %}
     {% assign user = user_hash[1] %}
 
-    <div class="col-md-4 col-sm-4 js-student" data-username="{{username}}">
+    <div class="col-md-3 col-sm-3 js-student" data-username="{{username}}">
       <div class="team-member">
         <div class="team-img">
           <img class="img-responsive js-avatar" src="">
