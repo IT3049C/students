@@ -1,0 +1,12 @@
+{
+       "emoji": ":smile:",
+       "role": "Student",
+       "introduction": "I'm excited to participate in this class and learn about web development",
+       "achievements": [
+           "Dean list 2020",
+           "Dean listed 2019"
+       ],
+       "links": {
+           "site": "https://it3049c-students.github.io/1-online-portfolio-Tyler-2021/",
+       }
+   }
