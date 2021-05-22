@@ -1,15 +1,15 @@
-   {
-       "emoji": ":raised_hands:",
-       "role": "Student",
-       "introduction": "Hey Everybody! I'm excited to go through this course and learn many new things.",
-       "achievements": [
-           "Created a 2D game in Unreal",
-           "Added 3D animations to a model in Unreal"
-       ],
-       "links": {
-           "site": "https://it3049c-students.github.io/1-online-portfolio-cochraa2/",
-           "linkedin": "https://www.linkedin.com/in/aaron-cochran-a960a2196/",
-           "instagram": "https://www.instagram.com/a.cochran2/",
-           "twitter": "https://twitter.com/acochran_",
-       }
-   }
+{
+  "emoji": ":raised_hands:",
+  "role": "Student",
+  "introduction": "Hey Everybody! I'm excited to go through this course and learn many new things.",
+  "achievements": [
+    "Created a 2D game in Unreal",
+    "Added 3D animations to a model in Unreal"
+  ],
+  "links": {
+    "site": "https://it3049c-students.github.io/1-online-portfolio-cochraa2/",
+    "linkedin": "https://www.linkedin.com/in/aaron-cochran-a960a2196/",
+    "instagram": "https://www.instagram.com/a.cochran2/",
+    "twitter": "https://twitter.com/acochran_"
+  }
+}

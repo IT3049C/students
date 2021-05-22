@@ -1,13 +1,13 @@
- {
-       "emoji": ":cherry_blossom:",
-       "role": "Student",
-       "introduction": "My name is Kaitlin Vo and I am a fourth-year, BSIT student at UC. I am almost on my last year of school! I look forward to learning more about programming and having this class with you all!",
-       "achievements": [
-           "Was on executive board for 2 university clubs",
-           "Created my first website my freshman year of college!"
-       ],
-       "links": {
-           "site": "https://it3049c-summer20.github.io/1-online-portfolio-katievo-1/",
-           "linkedin": "https://www.linkedin.com/in/kaitlin-vo-185018152"
-       }
-   }
+{
+  "emoji": ":cherry_blossom:",
+  "role": "Student",
+  "introduction": "My name is Kaitlin Vo and I am a fourth-year, BSIT student at UC. I am almost on my last year of school! I look forward to learning more about programming and having this class with you all!",
+  "achievements": [
+    "Was on executive board for 2 university clubs",
+    "Created my first website my freshman year of college!"
+  ],
+  "links": {
+    "site": "https://it3049c-summer20.github.io/1-online-portfolio-katievo-1/",
+    "linkedin": "https://www.linkedin.com/in/kaitlin-vo-185018152"
+  }
+}

@@ -1,13 +1,13 @@
 {
-     "emoji": ":relaxed:",
-     "role": "Student",
-     "introduction": "Hello, my name is Raj. I'm excited to learn about you all!",
-     "achievements": [
-         "GE Digital Enterprise Program Certification",
-         "Dean's List"
-     ],
-     "links": {
-         "site": "https://it3049c-students.github.io/1-online-portfolio-sekhonsj/",
-         "linkedin": "https://www.linkedin.com/in/sekhonsj/"
-     }
- }
+  "emoji": ":relaxed:",
+  "role": "Student",
+  "introduction": "Hello, my name is Raj. I'm excited to learn about you all!",
+  "achievements": [
+    "GE Digital Enterprise Program Certification",
+    "Dean's List"
+  ],
+  "links": {
+    "site": "https://it3049c-students.github.io/1-online-portfolio-sekhonsj/",
+    "linkedin": "https://www.linkedin.com/in/sekhonsj/"
+  }
+}

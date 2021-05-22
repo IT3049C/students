@@ -1,13 +1,13 @@
-   {
-       "emoji": ":alien:",
-       "role": "Student",
-       "introduction": "My name is Sara Barnes.",
-       "achievements": [
-           "Completed a Python course on edX",
-           "Found 3 geocaches yesterday (8/29/2020)"
-       ],
-       "links": {
-           "site": "https://it3049c-fall20.github.io/1-online-portfolio-defiantturtle/",
-           "linkedin": "https://www.linkedin.com/in/sara-barnes/"
-       }
-   }
+{
+  "emoji": ":alien:",
+  "role": "Student",
+  "introduction": "My name is Sara Barnes.",
+  "achievements": [
+    "Completed a Python course on edX",
+    "Found 3 geocaches yesterday (8/29/2020)"
+  ],
+  "links": {
+    "site": "https://it3049c-fall20.github.io/1-online-portfolio-defiantturtle/",
+    "linkedin": "https://www.linkedin.com/in/sara-barnes/"
+  }
+}

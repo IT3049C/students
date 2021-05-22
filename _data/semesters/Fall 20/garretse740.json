@@ -1,12 +1,12 @@
 {
-       "emoji": ":grinning:",
-       "role": "Student",
-       "introduction": "I'm Sam, and I am excited to learn how to encorporate javascript into webpages and make them more functional this semester",
-       "achievements": [
-           "Just completed my first co-op rotation",
-           "Just recovered from spraining my ankle"
-       ],
-       "links": {
-           "site": "https://it3049c-fall20.github.io/1-online-portfolio-garretse740/"
-       }
-   }
+  "emoji": ":grinning:",
+  "role": "Student",
+  "introduction": "I'm Sam, and I am excited to learn how to encorporate javascript into webpages and make them more functional this semester",
+  "achievements": [
+    "Just completed my first co-op rotation",
+    "Just recovered from spraining my ankle"
+  ],
+  "links": {
+    "site": "https://it3049c-fall20.github.io/1-online-portfolio-garretse740/"
+  }
+}

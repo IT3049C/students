@@ -1,13 +1,12 @@
- {
-       "emoji": ":relaxed:",
-       "role": "Student",
-       "introduction": "I'm Jeremy, I'm from Dublin Ohio, and I am currently studying software development.",
-       "achievements": [
-           "Graduated high school with an Magna Cum Lade",
-           "High School baseball captain"
-       ],
-       "links": {
-           "site": "https://it3049c-summer20.github.io/1-online-portfolio-JMaz-15/",
-           
-       }
-   }
+{
+  "emoji": ":relaxed:",
+  "role": "Student",
+  "introduction": "I'm Jeremy, I'm from Dublin Ohio, and I am currently studying software development.",
+  "achievements": [
+    "Graduated high school with an Magna Cum Lade",
+    "High School baseball captain"
+  ],
+  "links": {
+    "site": "https://it3049c-summer20.github.io/1-online-portfolio-JMaz-15/"
+  }
+}

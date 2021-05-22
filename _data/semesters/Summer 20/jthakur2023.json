@@ -1,13 +1,13 @@
 {
-       "emoji": ":grinning:",
-       "role": "Student",
-       "introduction": "Hi! My name is Jaishri Thakur and I'm an IT major focusing on the software development track! I'm excited to learn about you all!",
-       "achievements": [
-           "Learned to build some apps using Swift",
-           "Did my first co-op"
-       ],
-       "links": {
-           "site": "https://it3049c-summer20.github.io/1-online-portfolio-jthakur2023/",
-           "linkedin": "https://www.linkedin.com/in/jaishri-thakur-941875173/",
-       }
-   }
+  "emoji": ":grinning:",
+  "role": "Student",
+  "introduction": "Hi! My name is Jaishri Thakur and I'm an IT major focusing on the software development track! I'm excited to learn about you all!",
+  "achievements": [
+    "Learned to build some apps using Swift",
+    "Did my first co-op"
+  ],
+  "links": {
+    "site": "https://it3049c-summer20.github.io/1-online-portfolio-jthakur2023/",
+    "linkedin": "https://www.linkedin.com/in/jaishri-thakur-941875173/"
+  }
+}

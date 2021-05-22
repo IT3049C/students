@@ -1,12 +1,9 @@
-  {
-       "emoji": ":bowtie:",
-       "role": "Student",
-       "introduction": "I am a forth year junior software devleopment major. I like to play board/video games.",
-       "achievements": [
-           "Eagle Scout",
-           "Graduated from St.Xavier high school"
-       ],
-       "links": {
-           "linkedin": "https://www.linkedin.com/in/ryan-rich-792354150/" 
-       }
-   }
+{
+  "emoji": ":bowtie:",
+  "role": "Student",
+  "introduction": "I am a forth year junior software devleopment major. I like to play board/video games.",
+  "achievements": ["Eagle Scout", "Graduated from St.Xavier high school"],
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/ryan-rich-792354150/"
+  }
+}

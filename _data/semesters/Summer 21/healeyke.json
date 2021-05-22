@@ -1,13 +1,13 @@
-   {
-       "emoji": ":hatching_chick:",
-       "role": "Student",
-       "introduction": "Hi everyone! My name's Kerry and its nice to 'virtually' meet you.",
-       "achievements": [
-           "I've just finished my 2nd co-op rotation! yay",
-           "I just started my first MBA classes for the semester."
-       ],
-       "links": {
-           "site": "https://it3049c-students.github.io/1-online-portfolio-healeyke/",
-           "linkedin": "https://www.linkedin.com/in/healeyke/",
-       }
-   }
+{
+  "emoji": ":hatching_chick:",
+  "role": "Student",
+  "introduction": "Hi everyone! My name's Kerry and its nice to 'virtually' meet you.",
+  "achievements": [
+    "I've just finished my 2nd co-op rotation! yay",
+    "I just started my first MBA classes for the semester."
+  ],
+  "links": {
+    "site": "https://it3049c-students.github.io/1-online-portfolio-healeyke/",
+    "linkedin": "https://www.linkedin.com/in/healeyke/"
+  }
+}

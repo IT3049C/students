@@ -1,14 +1,13 @@
- {
-       "emoji": ":zap:",
-       "role": "Student",
-       "introduction": "Yes, my name is Storm, and no, I do not know how the weather is, but I can make it rain.",
-       "achievements": [
-           "Didn't get Covid",
-           "Beat my friends in golf two round in a row"
-       ],
-       "links": {
-           "site": "https://it3049c-summer20.github.io/1-online-portfolio-hamilsu/",
-           "linkedin": "https://www.linkedin.com/in/stuart-hamilton-iv-757a54173/",
-           
-       }
-   }
+{
+  "emoji": ":zap:",
+  "role": "Student",
+  "introduction": "Yes, my name is Storm, and no, I do not know how the weather is, but I can make it rain.",
+  "achievements": [
+    "Didn't get Covid",
+    "Beat my friends in golf two round in a row"
+  ],
+  "links": {
+    "site": "https://it3049c-summer20.github.io/1-online-portfolio-hamilsu/",
+    "linkedin": "https://www.linkedin.com/in/stuart-hamilton-iv-757a54173/"
+  }
+}

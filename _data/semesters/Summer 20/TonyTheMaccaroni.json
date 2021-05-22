@@ -1,15 +1,12 @@
 {
-       "emoji": ":sleepy:",
-       "role": "Student",
-       "introduction": "My name is Tony (Duy) Dang. I'm a second year IT major",
-       "achievements": [
-           "Finished my first coop",
-           "Joined a Algorithm club"
-       ],
-       "links": {
-           "site": "https://it3049c-summer20.github.io/1-online-portfolio-TonyTheMaccaroni/",
-           "linkedin": "https://www.linkedin.com/in/dangitduy/",
-           "facebook": "https://www.facebook.com/dangitduy/",
-           "twitter": "https://twitter.com/duydang2611",
-       }
-   }
+  "emoji": ":sleepy:",
+  "role": "Student",
+  "introduction": "My name is Tony (Duy) Dang. I'm a second year IT major",
+  "achievements": ["Finished my first coop", "Joined a Algorithm club"],
+  "links": {
+    "site": "https://it3049c-summer20.github.io/1-online-portfolio-TonyTheMaccaroni/",
+    "linkedin": "https://www.linkedin.com/in/dangitduy/",
+    "facebook": "https://www.facebook.com/dangitduy/",
+    "twitter": "https://twitter.com/duydang2611"
+  }
+}

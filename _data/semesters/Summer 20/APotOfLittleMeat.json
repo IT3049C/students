@@ -1,12 +1,9 @@
 {
-       "emoji": ":sob:",
-       "role": "Student",
-       "introduction": "I'm Ares",
-       "achievements": [
-           "Make many games",
-           "Study in IT-3049C class with you guys",
-       ],
-       "links": {
-           "site": " https://it3049c-summer20.github.io/1-online-portfolio-APotOfLittleMeat/.",
-       }
-   }
+  "emoji": ":sob:",
+  "role": "Student",
+  "introduction": "I'm Ares",
+  "achievements": ["Make many games", "Study in IT-3049C class with you guys"],
+  "links": {
+    "site": " https://it3049c-summer20.github.io/1-online-portfolio-APotOfLittleMeat/."
+  }
+}

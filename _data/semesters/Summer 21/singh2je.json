@@ -1,15 +1,15 @@
- {
-       "emoji": ":innocent:",
-       "role": "Student",
-       "introduction": "Hey I am Jaspreet. Let's code!",
-       "achievements": [
-           "Finished 2 internships this fall semester.",
-           "Dean's list"
-           "IBM Blockchain Certification"
-       ],
-       "links": {
-           "site": "https://it3049c-students.github.io/1-online-portfolio-Singh2je/",
-           "linkedin": "https://www.linkedin.com/in/jaspreet-singh19/",
-           "twitter": "https://twitter.com/JasSingh508",
-       }
-   }
+{
+  "emoji": ":innocent:",
+  "role": "Student",
+  "introduction": "Hey I am Jaspreet. Let's code!",
+  "achievements": [
+    "Finished 2 internships this fall semester.",
+    "Dean's list",
+    "IBM Blockchain Certification"
+  ],
+  "links": {
+    "site": "https://it3049c-students.github.io/1-online-portfolio-Singh2je/",
+    "linkedin": "https://www.linkedin.com/in/jaspreet-singh19/",
+    "twitter": "https://twitter.com/JasSingh508"
+  }
+}

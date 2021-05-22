@@ -1,14 +1,14 @@
 {
-       "emoji": ":simple_smile:",
-       "role": "Student",
-       "introduction": "I'm excited to make some games with JS and to see what you all create too!",
-       "achievements": [
-           "Getting a COOP.",
-           "Learning a lot with no programming knowledge starting College."
-       ],
-       "links": {
-           "site": "https://it3049c-fall20.github.io/1-online-portfolio-brownadam010/",
-           "twitter": "@adambrown2350",
-           "instagram": "@adambrown33",
-       }
-   }
+  "emoji": ":simple_smile:",
+  "role": "Student",
+  "introduction": "I'm excited to make some games with JS and to see what you all create too!",
+  "achievements": [
+    "Getting a COOP.",
+    "Learning a lot with no programming knowledge starting College."
+  ],
+  "links": {
+    "site": "https://it3049c-fall20.github.io/1-online-portfolio-brownadam010/",
+    "twitter": "@adambrown2350",
+    "instagram": "@adambrown33"
+  }
+}

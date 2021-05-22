@@ -1,13 +1,13 @@
-   {
-       "emoji": ":computer:",
-       "role": "Student",
-       "introduction": "I am excited about this class because I love coding!",
-       "achievements": [
-           "Obtained second place at the national level Excellence in Construction for an electrical project I completed.",
-           "Obtained first place at the state level Excellence in Construction for an electrical project I completed."
-       ],
-       "links": {
-           "site": "https://it3049c-fall20.github.io/1-online-portfolio-ahlersml/",
-           "linkedin": "https://www.linkedin.com/in/mike-ahlers-553b021a0/",
-       }
-   }
+{
+  "emoji": ":computer:",
+  "role": "Student",
+  "introduction": "I am excited about this class because I love coding!",
+  "achievements": [
+    "Obtained second place at the national level Excellence in Construction for an electrical project I completed.",
+    "Obtained first place at the state level Excellence in Construction for an electrical project I completed."
+  ],
+  "links": {
+    "site": "https://it3049c-fall20.github.io/1-online-portfolio-ahlersml/",
+    "linkedin": "https://www.linkedin.com/in/mike-ahlers-553b021a0/"
+  }
+}

@@ -1,13 +1,13 @@
 {
-       "emoji": ":bowtie:",
-       "role": "Student",
-       "introduction": "I can't wait to learn more about Javascript, HTML and CSS this Fall semester!",
-       "achievements": [
-           "I was recently elected as Treasurer of my Fraternity",
-           "I made the Deans list from my Spring Semester grades"
-       ],
-       "links": {
-           "site": "https://it3049c-fall20.github.io/1-online-portfolio-Emiller321/",
-           "linkedin": "https://www.linkedin.com/in/eric-miller-6aa6a1184",
-       }
-   }
+  "emoji": ":bowtie:",
+  "role": "Student",
+  "introduction": "I can't wait to learn more about Javascript, HTML and CSS this Fall semester!",
+  "achievements": [
+    "I was recently elected as Treasurer of my Fraternity",
+    "I made the Deans list from my Spring Semester grades"
+  ],
+  "links": {
+    "site": "https://it3049c-fall20.github.io/1-online-portfolio-Emiller321/",
+    "linkedin": "https://www.linkedin.com/in/eric-miller-6aa6a1184"
+  }
+}
