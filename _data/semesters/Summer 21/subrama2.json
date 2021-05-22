@@ -1,14 +1,12 @@
-  {
-       "emoji": ":persevere:",
-       "role": "Student",
-       "introduction": "I can't wait to learn game development!",
-       "achievements": [
-           "I got into lambda honors society in Cincinnati",
-           "I got into MSIT program while doing the BSIT program"
-       ],
-       "links": {
-           "site": "https://it3049c-students.github.io/1-online-portfolio-subrama2/",
-          
-         
-       }
-   }
+{
+  "emoji": ":persevere:",
+  "role": "Student",
+  "introduction": "I can't wait to learn game development!",
+  "achievements": [
+    "I got into lambda honors society in Cincinnati",
+    "I got into MSIT program while doing the BSIT program"
+  ],
+  "links": {
+    "site": "https://it3049c-students.github.io/1-online-portfolio-subrama2/"
+  }
+}

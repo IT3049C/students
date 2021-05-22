@@ -1,15 +1,10 @@
- {
-       "emoji": ":smile:",
-       "role": "Student",
-       "introduction": "My name is Ibukun Daniel, I am going to my third year here at UC, nice to meet you all",
-       "achievements": [
-           "Got into honors",
-           "Deans List"
-       ],
-       "links": {
-           "site": "https://github.com/ibukundanny/students.git",
-           "linkedin": "www.linkedin.com/in/ibukun-daniel-6a2327167"
-          
-      
-       }
-   }
+{
+  "emoji": ":smile:",
+  "role": "Student",
+  "introduction": "My name is Ibukun Daniel, I am going to my third year here at UC, nice to meet you all",
+  "achievements": ["Got into honors", "Deans List"],
+  "links": {
+    "site": "https://github.com/ibukundanny/students.git",
+    "linkedin": "www.linkedin.com/in/ibukun-daniel-6a2327167"
+  }
+}

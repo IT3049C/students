@@ -1,15 +1,11 @@
- {
-       "emoji": ":confused:",
-       "role": "Student",
-       "introduction": "Hello to you all, I am struffling in the course but will eventually cathc up, Can;t wait to work with you all!",
-       "achievements": [
-           "Associates in Pre- Business Adminisration",
-           
-       ],
-       "links": {
-           "site": "https://it3049c-fall20.github.io/1-online-portfolio-Odafe123/",
-           "linkedin": "https://www.linkedin.com/feed/",
-           "facebook": "https://www.facebook.com/",
-           
-       }
-   }
+{
+  "emoji": ":confused:",
+  "role": "Student",
+  "introduction": "Hello to you all, I am struffling in the course but will eventually cathc up, Can;t wait to work with you all!",
+  "achievements": ["Associates in Pre- Business Adminisration"],
+  "links": {
+    "site": "https://it3049c-fall20.github.io/1-online-portfolio-Odafe123/",
+    "linkedin": "https://www.linkedin.com/feed/",
+    "facebook": "https://www.facebook.com/"
+  }
+}
