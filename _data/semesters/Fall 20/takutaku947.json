@@ -1,16 +1,16 @@
-   {
-       "emoji": ":airplane:",
-       "role": "Student",
-       "introduction": "I'm Japanese, can speak two languages fluently, love programming, love travelling, and making some \"diamond\" at this course.",
-       "achievements": [
-           "I've done many essential trip between Japan and the US during this pandemic so I got oneworld Sapphire and Star Alliance Gold plus Gold Medallion",
-           "Deans List since Spring 2019",
-           "A member of IT Accelerated Program and the University Honors Program"
-       ],
-       "links": {
-           "site": "https://it3049c-fall20.github.io/1-online-portfolio-takutaku947/index.html",
-           "linkedin": "https://www.linkedin.com/in/takurof/",
-           "facebook": "https://www.facebook.com/fukudatakuro/",
-           "twitter": "https://twitter.com/FukudaTakuro"
-       }
-   }
+{
+  "emoji": ":airplane:",
+  "role": "Student",
+  "introduction": "I'm Japanese, can speak two languages fluently, love programming, love travelling, and making some \"diamond\" at this course.",
+  "achievements": [
+    "I've done many essential trip between Japan and the US during this pandemic so I got oneworld Sapphire and Star Alliance Gold plus Gold Medallion",
+    "Deans List since Spring 2019",
+    "A member of IT Accelerated Program and the University Honors Program"
+  ],
+  "links": {
+    "site": "https://it3049c-fall20.github.io/1-online-portfolio-takutaku947/index.html",
+    "linkedin": "https://www.linkedin.com/in/takurof/",
+    "facebook": "https://www.facebook.com/fukudatakuro/",
+    "twitter": "https://twitter.com/FukudaTakuro"
+  }
+}

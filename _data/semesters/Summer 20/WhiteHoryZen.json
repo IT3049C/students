@@ -1,12 +1,12 @@
 {
-       "emoji": ":alien:",
-       "role": "Student",
-       "introduction": "I'm excited to learn more about javascript and how it can be used to create web games!",
-       "achievements": [
-           "Was a part of the UC Esports Exec Board",
-           "Got a co-op for 3 semesters in a row (Spring, Summer, Fall)"
-       ],
-       "links": {
-           "site": "https://it3049c-summer20.github.io/1-online-portfolio-WhiteHoryZen/",
-       }
-   }
+  "emoji": ":alien:",
+  "role": "Student",
+  "introduction": "I'm excited to learn more about javascript and how it can be used to create web games!",
+  "achievements": [
+    "Was a part of the UC Esports Exec Board",
+    "Got a co-op for 3 semesters in a row (Spring, Summer, Fall)"
+  ],
+  "links": {
+    "site": "https://it3049c-summer20.github.io/1-online-portfolio-WhiteHoryZen/"
+  }
+}

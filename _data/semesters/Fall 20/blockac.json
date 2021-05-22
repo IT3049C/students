@@ -1,12 +1,12 @@
-   {
-       "emoji": ":whale:",
-       "role": "Student",
-       "introduction": "Well, this certainly isnt what i was expecting to have happen for collage!",
-       "achievements": [
-           "CEO and lead artist of Building Blocks Studios!",
-           "Bought a house a couple years ago"
-       ],
-       "links": {
-           "site": "https://it3049c-fall20.github.io/1-online-portfolio-blockac/",
-       }
-   }
+{
+  "emoji": ":whale:",
+  "role": "Student",
+  "introduction": "Well, this certainly isnt what i was expecting to have happen for collage!",
+  "achievements": [
+    "CEO and lead artist of Building Blocks Studios!",
+    "Bought a house a couple years ago"
+  ],
+  "links": {
+    "site": "https://it3049c-fall20.github.io/1-online-portfolio-blockac/"
+  }
+}

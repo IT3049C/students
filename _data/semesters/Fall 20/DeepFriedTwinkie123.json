@@ -1,15 +1,15 @@
-   {
-       "emoji": ":pensive:",
-       "role": "Student",
-       "introduction": "I'm excited to learn about you all!",
-       "achievements": [
-           "Created a virtual enviornment in Unity for the social game VRChat",
-           "Compeleted 3 IT based camps provided by UC"
-       ],
-       "links": {
-           "site": "https://it3049c-fall20.github.io/1-online-portfolio-DeepFriedTwinkie123/",
-           "linkedin": "LINK_TO_YOUR_LINKEDIN_PROFILE",
-           "facebook": "LINK_TO_YOUR_FACEBOOK_PROFILE",
-           "twitter": "LINK_TO_YOUR_TWITTER_PROFILE",
-       }
-   }
+{
+  "emoji": ":pensive:",
+  "role": "Student",
+  "introduction": "I'm excited to learn about you all!",
+  "achievements": [
+    "Created a virtual enviornment in Unity for the social game VRChat",
+    "Compeleted 3 IT based camps provided by UC"
+  ],
+  "links": {
+    "site": "https://it3049c-fall20.github.io/1-online-portfolio-DeepFriedTwinkie123/",
+    "linkedin": "LINK_TO_YOUR_LINKEDIN_PROFILE",
+    "facebook": "LINK_TO_YOUR_FACEBOOK_PROFILE",
+    "twitter": "LINK_TO_YOUR_TWITTER_PROFILE"
+  }
+}

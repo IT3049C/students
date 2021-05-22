@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "students portolio",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "cleanup": "./node_modules/.bin/prettier --write ./_data/semesters/**/**/**.json"
   },
   "dependencies": {
     "directory-tree": "^2.2.4",
@@ -13,5 +14,8 @@
   "jest": {
     "clearMocks": true,
     "testEnvironment": "node"
+  },
+  "devDependencies": {
+    "prettier": "^2.3.0"
   }
 }

@@ -1,12 +1,9 @@
- {
-       "emoji": ":sushi:",
-       "role": "Student",
-       "introduction": "I'm excited to learn more about game development!",
-       "achievements": [
-           "Deans List since Fall 2018",
-           "ACRA All American Athlete"
-       ],
-       "links": {
-           "site": "LINK_TO_YOUR_WEBSITE",
-       }
-   }
+{
+  "emoji": ":sushi:",
+  "role": "Student",
+  "introduction": "I'm excited to learn more about game development!",
+  "achievements": ["Deans List since Fall 2018", "ACRA All American Athlete"],
+  "links": {
+    "site": "LINK_TO_YOUR_WEBSITE"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "emoji": ":ship:",
+  "role": "Student",
+  "introduction": "My name is Kevin Zhu. I am a transfer student from Sinclair Community College. This is my third semester at UC. I'm studying Information Technology-Software App Development. My favorite hobbies are playing sports like basketball and golf, video games, hiking, and traveling. I'm looking forward to see what this has to offer!",
+  "achievements": [
+    "Integrated my drone application with weather functionality, airport databases, geofencing, and google maps",
+    "Dean's List"
+  ],
+  "links": {
+    "site": "https://it3049c-students.github.io/1-online-portfolio-zhukv98/",
+    "linkedin": "https://www.linkedin.com/in/kevin-zhu-79699b200/",
+    "facebook": "https://www.facebook.com/kevin.zhu.39566/"
+  }
+}
