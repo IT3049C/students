@@ -1,0 +1,14 @@
+   {
+       "emoji": ":sunglasses:",
+       "role": "Student",
+       "introduction": "I'm excited to learn about you all and learn a lot about game development!",
+       "achievements": [
+           "Deans List ",
+           "MVP Soccer Player"
+       ],
+       "links": {
+           "site": " https://github.com/IT3049C-Fall20/1-online-portfolio-mkone25",
+           "linkedin": "https://www.linkedin.com/in/mamadoukone/",
+           
+       }
+   }
