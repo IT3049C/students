@@ -1,13 +1,10 @@
 {
-       "emoji": ":saxophone:",
-       "role": "Student",
-       "introduction": "I'm excited to learn about you all!",
-       "achievements": [
-           "Eagle Scout",
-           "AWS Certified"
-       ],
-       "links": {
-           "site": "https://it3049c-students.github.io/1-online-portfolio-trey368s/",
-           "linkedin": "www.linkedin.com/in/trey-stegeman",
-       }
-   }
+  "emoji": ":saxophone:",
+  "role": "Student",
+  "introduction": "I'm excited to learn about you all!",
+  "achievements": ["Eagle Scout", "AWS Certified"],
+  "links": {
+    "site": "https://it3049c-students.github.io/1-online-portfolio-trey368s/",
+    "linkedin": "www.linkedin.com/in/trey-stegeman"
+  }
+}
