@@ -1,0 +1,13 @@
+  
+{
+  "emoji": ":smirk_cat:",
+  "role": "Student",
+  "introduction": "I'm excited to do stuff! We got this!",
+  "achievements": [
+    "I am very good at magic the gathering.",
+    "I can deadlift 425...Idk what to have here."
+  ],
+  "links": {
+    "site": "https://github.com/finleycd"
+  }
+}
