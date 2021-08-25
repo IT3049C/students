@@ -1,0 +1,13 @@
+  {
+       "emoji": ":smile:",
+       "role": "Student",
+       "introduction": "I am Cole Pownell!",
+       "achievements": [
+           "UC Battle Bot president",
+           "Created warehouse Floor robot simulation"
+       ],
+       "links": {
+           "site": "https://github.com/ColePownell",
+           "linkedin": "https://www.linkedin.com/in/colepownell/",
+       }
+   }
