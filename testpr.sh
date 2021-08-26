@@ -16,3 +16,5 @@ else
 		echo "FAILED..."
 fi
 
+git checkout master
+
