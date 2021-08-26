@@ -44,6 +44,7 @@ describe(`student json data schemas`, function () {
     const semesters = dirTree(`${__dirname}/../_data/semesters`);
     for (let semester of semesters.children) {
       for (let student of semester.children) {
+        if (student.name === '.gitkeep') continue
         let json;
         try {
           json = JSON.parse(fs.readFileSync(path.resolve(__dirname, `../_data/semesters/${semester.name}/${student.name}`), `utf8`));
