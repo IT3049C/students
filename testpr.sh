@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if ! gh --version >> /dev/null; then
+if ! gh --version > /dev/null 2>&1; then
 		echo "GitHub CLI not found. Install from https://cli.github.com/"
 		exit 1
 fi
@@ -22,3 +22,4 @@ else
 fi
 
 git checkout master
+
