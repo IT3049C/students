@@ -1,0 +1,12 @@
+{
+       "emoji": ":dvd:",
+       "role": "Student",
+       "introduction": Excited to learn in this class!",
+       "achievements": [
+           "I ate today!",
+           "I woke up today!"
+       ],
+       "links": {
+           "site": "https://it3049c-students.github.io/1-online-portfolio-tompkijo/",
+       }
+   }
