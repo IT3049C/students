@@ -1,0 +1,13 @@
+{
+       "emoji": ":sunglasses:",
+       "role": "Student",
+       "introduction": "Hello everyone! My name is Steve and I'm looking forwared to this class with you.",
+       "achievements": [
+           "I've reached a career milestone that wasn't hoping to reach for several more years",
+           "I have an associates degree in business and I'm working towards my bacholors degree in IT"
+       ],
+       "links": {
+           "site": "https://it3049c-students.github.io/1-online-portfolio-Falcons1231/",
+           "facebook": "https://www.facebook.com/steve.falconieri",
+       }
+   }
