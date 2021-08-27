@@ -12,9 +12,8 @@ if ! gh pr diff $2 | grep -q "_data/semesters/$1"; then
 fi
 
 gh pr checkout $2
-git pull
 
-if npm run test jest > /dev/null 2>&1; then
+if ! npm run test jest > /dev/null 2>&1; then
 		gh pr merge -dm $2
 		echo "PR PASSED checks"
 else
