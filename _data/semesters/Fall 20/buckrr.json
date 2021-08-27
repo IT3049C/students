@@ -1,0 +1,12 @@
+{
+       "emoji": ":smile_cat:",
+       "role": "Student",
+       "introduction": "I'm looking forward to learning with you all!",
+       "achievements": [
+           "Graduated High School with a 3.7 GPA",
+           "Maintained a GPA above 3.0 throughout each year of college"
+       ],
+       "links": {
+           "site": "https://github.com/IT3049C-Students/1-online-portfolio-buckrr",
+       }
+   }
