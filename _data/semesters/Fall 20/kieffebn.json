@@ -1,0 +1,12 @@
+   {
+       "emoji": ":alien:",
+       "role": "Student",
+       "introduction": "I can't wait to get coding!",
+       "achievements": [
+           "I just finished my first backpacking trip",
+           "I can cook minute rice in 58 seconds"
+       ],
+       "links": {
+           "site": "https://it3049c-students.github.io/1-online-portfolio-kieffebn/"
+       }
+   }
