@@ -1,0 +1,13 @@
+{
+       "emoji": ":hammer:",
+       "role": "Student",
+       "introduction": "Hello, I am excited to be taking a web development class!",
+       "achievements": [
+           "Nominated for a Set Design award",
+           "Finished my first professional summer stock job"
+       ],
+       "links": {
+           "Theater site": "thomasiodice.com",
+           "IT Intro site": "https://it3049c-students.github.io/1-online-portfolio-iodicetr/",
+       }
+   }
