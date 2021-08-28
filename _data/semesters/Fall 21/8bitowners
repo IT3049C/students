@@ -1,0 +1,14 @@
+ {
+       "emoji": ":video_game:",
+       "role": "Student",
+       "introduction": "My name is Tyler McCall, and I'm a Junior majoring in IT going down the game design track!",
+       "achievements": [
+           "Earned several certifications such as Python and IBM Cybersecurity",
+           "Created the first chapters of my game "The Illumina Saga"
+           "Over quarantine I've created a Let's Play YouTube channel that is growing!"
+       ],
+       "links": {
+           "site": "https://it3049c-students.github.io/1-online-portfolio-8bitowners/",
+           "linkedin": "https://www.linkedin.com/in/tylerrmccall/",
+       }
+   }
