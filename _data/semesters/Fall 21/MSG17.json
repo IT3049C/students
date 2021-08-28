@@ -1,0 +1,13 @@
+   {
+       "emoji": ":wave:",
+       "role": "Student",
+       "introduction": "Hi, I'm Mahesh Gowda. Looking forward to getting to know everyone!",
+       "achievements": [
+           "Accepted into FAIT Fellowship",
+           "Treasurer of ACM@UC and founded Wikimedians@UC"
+       ],
+       "links": {
+           "site": "https://github.com/MSG17",
+           "linkedin": "https://www.linkedin.com/in/mahesh-gowda-819924134/",
+       }
+   }
