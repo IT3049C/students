@@ -1,1 +1,13 @@
-
+{
+       "emoji": ":wink:",
+       "role": "Student",
+       "introduction": "I'm very excited for this class!",
+       "achievements": [
+           "2X Dean's List (last 2 semesters)",
+           "Taught myself Python"
+       ],
+       "links": {
+           "site": "https://it3049c-students.github.io/1-online-portfolio-finchea/",
+           "linkedin": "https://www.linkedin.com/in/ethan-finch-54686118b/",
+       }
+   }
