@@ -8,7 +8,7 @@ else
 		gh pr comment -b "Your JSON is in the wrong folder, please move it to the $1 folder"
 		echo "PR $2 FAILED, JSON in wrong folder."
 	else
-		gh pr checkout $2
+		gh pr checkout -f $2
 
 		if npm run test jest >/dev/null 2>&1; then
 			gh pr merge -dm $2
