@@ -1,0 +1,14 @@
+   {
+       "emoji": ":boom:",
+       "role": "Student",
+       "introduction": "Excited to be here!",
+       "achievements": [
+           "Self-Employed w/ eBay for many years",
+           "Maintained a high GPA throughout my first two years at UC Clermont!"
+       ],
+       "links": {
+           "site": "https://it3049c-students.github.io/1-online-portfolio-andrewglanzzz/",
+           "linkedin": "https://www.linkedin.com/in/andrew-glanz-7a0943200/",
+           "facebook": "https://www.facebook.com/profile.php?id=100012478455003",
+       }
+   }
