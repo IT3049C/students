@@ -18,9 +18,10 @@ else
 			gh pr comment -b "Please check your JSON, it doesn't appear to be valid. https://jsonlint.com/" $2
 			echo "PR $2 FAILED, invalid JSON"
 		fi
-		git branch -D $TGB
 	fi
 fi
 
 git checkout $PGB
+
+if $TGB; then git branch -D $TGB fi
 
