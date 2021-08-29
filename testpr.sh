@@ -1,4 +1,5 @@
 #!/bin/bash
+PGB=$(git branch | grep \* | cut -d ' ' -f2)
 
 if ! gh --version >/dev/null 2>&1; then
 	echo "GitHub CLI not found. Install from https://cli.github.com/"
@@ -18,3 +19,6 @@ else
 		fi
 	fi
 fi
+
+git checkout $PGB
+
