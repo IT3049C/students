@@ -9,6 +9,7 @@ else
 		echo "PR $2 FAILED, JSON in wrong folder."
 	else
 		gh pr checkout -f $2
+		TGB=$(git branch | grep \* | cut -d ' ' -f2)
 
 		if npm run test jest >/dev/null 2>&1; then
 			gh pr merge -dm $2
@@ -17,6 +18,7 @@ else
 			gh pr comment -b "Please check your JSON, it doesn't appear to be valid. https://jsonlint.com/" $2
 			echo "PR $2 FAILED, invalid JSON"
 		fi
+		git branch -D $TGB
 	fi
 fi
 
