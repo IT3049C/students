@@ -1,0 +1,15 @@
+{
+       "emoji": ":tea:",
+       "role": "Student",
+       "introduction": "I'm excited to learn about you all!",
+       "achievements": [
+           "achievement1",
+           "achievement2"
+       ],
+       "links": {
+           "site": https://github.com/IT3049C-Students/1-online-portfolio-yamamoso/blob/master/index.html,
+           "linkedin": https://www.linkedin.com/in/shougoyamamoto/,
+           "facebook": N/A,
+           "twitter": https://twitter.com/TheShogun117,
+       }
+   }
