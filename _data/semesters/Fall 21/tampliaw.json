@@ -6,6 +6,9 @@
            "Founded my local IT club for my high school",
            "Created a video game in the span of 4 days"
        ],
-      { "site": "https://github.com/Leach-IT3049C/1-online-portfolio-tampliaw",
-   }
+      "links": {
+        "site": "https://github.com/Leach-IT3049C/1-online-portfolio-tampliaw",
+       }
+
+   
    }
