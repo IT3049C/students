@@ -1,0 +1,12 @@
+ {
+       "emoji": ":rabbit:",
+       "role": "Student",
+       "introduction": "Hi, I'm Jake and my pronouns are They / Them",
+       "achievements": [
+           "I was on my high schools Science Olympiad team and won 3rd in Detector Building at regionals",
+           "I ran my AFJROTC units CyberPatriot team and got our team further than we had ever reached in the competition before"
+       ],
+       "links": {
+           "site": "https://it3049c-students.github.io/1-online-portfolio-plaggeij/"
+       }
+   }
