@@ -9,6 +9,7 @@ else
 		echo "PR $2 FAILED, JSON in wrong folder."
 	else
 		gh pr checkout -f $2
+		git merge origin master
 		TGB=$(git branch | grep \* | cut -d ' ' -f2)
 
 		if npm run test jest >/dev/null 2>&1; then
