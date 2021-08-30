@@ -1,1 +1,13 @@
-
+ {
+       "emoji": ":smile:",
+       "role": "Student",
+       "introduction": "Hi I'm David and I'm excited to learn more about JS!",
+       "achievements": [
+           "Have a page in production for employees at Speedway",
+           "Starting my 5th year"
+       ],
+       "links": {
+           "site": "https://leach-it3049c.github.io/1-online-portfolio-Herier44/",
+           "linkedin": "https://www.linkedin.com/in/david-herier-jr-4863b4152/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BKB%2FqaarCRiOU8uPwYEQ6eg%3D%3D"
+       }
+   }
