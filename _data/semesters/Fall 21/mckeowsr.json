@@ -1,0 +1,13 @@
+ {
+       "emoji": ":dog:",
+       "role": "Student",
+       "introduction": "I love my dog Macy",
+       "achievements": [
+           "I ran a 5k recently",
+           "If you are reading this on Aug 29, then today is my 22nd birthday"
+       ],
+       "links": {
+           "site": "https://it3049c-students.github.io/1-online-portfolio-mckeowsr/",
+           "facebook": "https://www.facebook.com/sarah.mckeown.543"
+       }
+   }
