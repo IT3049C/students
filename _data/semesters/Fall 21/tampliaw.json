@@ -1,1 +1,9 @@
-
+   {
+       "emoji": ":trollface:",
+       "role": "Student",
+       "introduction": "Hey I'm Andrew! I look forward to getting to know everyone",
+       "achievements": [
+           "Founded my local IT club for my high school",
+           "Created a video game in the span of 4 days"
+       ],
+   }
