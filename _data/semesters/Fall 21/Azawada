@@ -1,0 +1,12 @@
+{
+       "emoji": ":no_mouth:",
+       "role": "Student",
+       "introduction": "Hey what's up yall",
+       "achievements": [
+           "I went to Iceland",
+           "Saved up a lot of money for this semester"
+       ],
+       "links": {
+           "site": "https://it3049c-students.github.io/1-online-portfolio-zawadaap/",
+       }
+   }
