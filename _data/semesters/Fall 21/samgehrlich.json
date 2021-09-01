@@ -1,0 +1,13 @@
+{
+       "emoji": ":trollface:",
+       "role": "Student",
+       "introduction": "Hello, Im ready to learn more about web development!",
+       "achievements": [
+           "I completed my first co-op semester.",
+           "I moved into a new house."
+       ],
+       "links": {
+           "site": "https://it3049c-students.github.io/1-online-portfolio-samgehrlich/",
+           "linkedin": "www.linkedin.com/in/sam-gehrlich-091a171b9",
+       }
+   }
