@@ -1,0 +1,11 @@
+{
+       "emoji": ":alien:",
+       "role": "Student",
+       "introduction": "Hey everyone, im Max and im excited to start learning about web game development!",
+       "achievements": [
+           "Played for UC's League of Legends team",
+       ],
+       "links": {
+           "site": "https://it3049c-students.github.io/1-online-portfolio-mrmaxmax1423/",
+       }
+   }
