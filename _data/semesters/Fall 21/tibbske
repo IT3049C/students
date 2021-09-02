@@ -1,0 +1,12 @@
+   {
+       "emoji": ":love_letter:",
+       "role": "Student",
+       "introduction": "I'm Kate, I'm a 2nd year cybersecurity student.",
+       "achievements": [
+           "Recently finished first co-op",
+           "Just moved out"
+       ],
+       "links": {
+           "site": "https://it3049c-students.github.io/1-online-portfolio-tibbske/"
+       }
+   }
