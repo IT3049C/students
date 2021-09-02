@@ -1,0 +1,14 @@
+{
+       "emoji": ":beers:",
+       "role": "Student",
+       "introduction": "My name is Jeremy and I am a Software Engineer at LexisNexis",
+       "achievements": [
+           "Lost 140 lbs (diet/exercise) and enjoy healthier active lifestyle",
+           "As of 08/29/2021, I have ran a 5k on 118 consecutive Sundays (next milestone is 156)"
+       ],
+       "links": {
+           "site": "https://jeremylshepherd.io",
+           "linkedin": "www.linkedin.com/in/jeremylshepherd",
+           "twitter": "www.twitter.com/jeremylshepherd"
+       }
+   }
