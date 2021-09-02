@@ -1,0 +1,13 @@
+   {
+       "emoji": ":grinning:",
+       "role": "Student",
+       "introduction": "Hello fellow classmates!",
+       "achievements": [
+           "Web Development, AAS",
+           "Software Development, AAS"
+       ],
+       "links": {
+           "site": "https://it3049c-students.github.io/1-online-portfolio-nichoah/",
+           "linkedin": "https://www.linkedin.com/in/alainna-nichols"
+       }
+   }
