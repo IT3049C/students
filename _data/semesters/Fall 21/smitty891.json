@@ -1,0 +1,16 @@
+   {
+       "emoji": ":milky_way:",
+       "role": "Student",
+       "introduction": "Hi everyone, I wish you all the best this semester!",
+       "achievements": [
+           "I just completed some much long needed home improvements",
+           "I am turning 40 next month :weary:",
+           "I was part of a team that succeeded in completing a major software release"
+         
+       ],
+       "links": {
+           "linkedin": "https://www.linkedin.com/in/smithryanb/",
+           "facebook": "https://www.facebook.com/Smith.Ryan.B",
+           "instagram": "https://www.instagram.com/smitty819/"
+       }
+   }
