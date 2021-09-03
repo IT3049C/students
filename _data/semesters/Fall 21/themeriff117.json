@@ -1,0 +1,13 @@
+   {
+       "emoji": ":sweat_smile:",
+       "role": "Student",
+       "introduction": "I'm a novel writer and lover of space!",
+       "achievements": [
+           "Recently finished writing my first novel",
+           "Astronomy club president in 2019",
+           "Built a gaming pc last year"
+       ],
+       "links": {
+           "site": "https://github.com/themeriff117",
+       }
+   }
