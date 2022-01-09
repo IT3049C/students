@@ -1,0 +1,16 @@
+{
+  "emoji": ":dancer:",
+  "role": "Student",
+  "introduction": "Hello! My name is Emily Bender and I am excited for the Summer!",
+  "achievements": [
+    "Made Dean's List every semester of undegrad so far",
+    "Accepted into Accelerated IT program",
+    "Perfected handstand during quarantine",
+    "Self-proclaimed to own cutest dog in the world"
+  ],
+  "links": {
+    "site": "https://it3049c-summer20.github.io/1-online-portfolio-ebender17/",
+    "linkedin": "https://www.linkedin.com/in/emily-bender-655934190",
+    "instagram": "https://www.instagram.com/emilylynnbender/"
+  }
+}

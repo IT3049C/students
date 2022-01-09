@@ -1,0 +1,16 @@
+{
+  "emoji": ":necktie:",
+  "role": "Student",
+  "introduction": "Hello my name is Darrion & I am a Senior! Excited to be here!",
+  "achievements": [
+    "Dean's list all last year",
+    "4.0 cumulative GPA",
+    "working on creating a bitcoin"
+  ],
+  "links": {
+    "site": "https://github.com/IT3049C-Students/1-online-portfolio-dhoard2022.git",
+    "linkedin": "https://www.linkedin.com/in/darrion-hoard-523b35174/",
+    "facebook": "https://www.facebook.com/darrion.hoard.92",
+    "twitter": "https://twitter.com/BearcatsIt"
+  }
+}

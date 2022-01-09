@@ -1,0 +1,14 @@
+{
+  "emoji": ":sun_with_face:",
+  "role": "Student",
+  "introduction": "Hey everyone! I'm Haseeb and I can't wait to learn so much this semester with all of you!",
+  "achievements": [
+    "Most sales at my job for selling shoes",
+    "Most add on sales for smoothies"
+  ],
+  "links": {
+    "site": "file:///Users/haseebikram/Documents/GitHub/1-online-portfolio-haseebikram/index.html",
+    "linkedin": "https://www.linkedin.com/in/haseeb-ikram-647140164/",
+    "instagram": "https://www.instagram.com/haseebui/"
+  }
+}

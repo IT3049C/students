@@ -1,0 +1,12 @@
+   {
+       "emoji": ":bowtie:",
+       "role": "Student",
+       "introduction": "My name is Jakob Brown and I am excited for this class",
+       "achievements": [
+           "Captain of the soccer team in high school",
+           "Student section leader in high school"
+       ],
+       "links": {
+           "site": "https://leach-it3049c.github.io/1-online-portfolio-JakobBrownie/"
+       }
+   }

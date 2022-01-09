@@ -1,0 +1,13 @@
+{
+  "emoji": ":suspect:",
+  "role": "Student",
+  "introduction": "Welcome to my swirling clutter tornado!",
+  "achievements": [
+    "Completed my test page!",
+    "Started work on a new personal project!"
+  ],
+  "links": {
+    "site": "https://github.com/IT3049C-Fall20/1-online-portfolio-Couriwil89",
+    "linkedin": "https://www.linkedin.com/in/couri-wilson-8808127/"
+  }
+}

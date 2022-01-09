@@ -1,0 +1,12 @@
+{
+  "emoji": ":wave:",
+  "role": "Student",
+  "introduction": "I'm excited to learn about game development!",
+  "achievements": [
+    "Associate Degree in Software Engineering",
+    "Certificate of Cyber Threat Analyst"
+  ],
+  "links": {
+    "site": "https://github.com/RIA03B"
+  }
+}

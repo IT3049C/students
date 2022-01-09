@@ -1,0 +1,13 @@
+{
+  "emoji": ":sunglasses:",
+  "role": "Student",
+  "introduction": "Hi my name is Isabella and I'm a third year IT-SD student! I'm excited to meet you all and learn a lot this semester!",
+  "achievements": [
+    "Web Developer Intern",
+    "Dean's List and Cincinnatus Scholar"
+  ],
+  "links": {
+    "site": "https://github.com/IT3049C-Students/1-online-portfolio-inpeters/settings/pages",
+    "linkedin": "www.linkedin.com/in/isabellanpeters"
+  }
+}

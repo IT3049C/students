@@ -1,0 +1,15 @@
+{
+  "emoji": ":space_invader:",
+  "role": "Student",
+  "introduction": "Hello World! I am a Junior at the School of IT! I'm an international student from India and have a passion for making and breaking things, mostly software :) ",
+  "achievements": [
+    "Published research author.",
+    "Professionally simulated a network attack as part of a thesis study.",
+    "Achieved \"Hacker\" Rank at HackTheBox.",
+    "Recently customized my shell (lol)."
+  ],
+  "links": {
+    "site": "https://it3049c-students.github.io/1-online-portfolio-pranavm7/",
+    "linkedin": "https://www.linkedin.com/in/pranav-m7"
+  }
+}

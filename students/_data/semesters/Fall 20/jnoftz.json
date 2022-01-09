@@ -1,0 +1,13 @@
+{
+  "emoji": ":octocat:",
+  "role": "Student",
+  "introduction": "Hello! My name is Jerry but my friend call me JD.",
+  "achievements": [
+    "Entered my Senior Year",
+    "Obtained Software Development Job"
+  ],
+  "links": {
+    "site": "https://it3049c-fall20.github.io/1-online-portfolio-jnoftz/",
+    "linkedin": "https://www.linkedin.com/in/jerry-noftz-068b27aa/"
+  }
+}

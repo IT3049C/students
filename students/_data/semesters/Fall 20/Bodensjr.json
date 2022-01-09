@@ -1,0 +1,12 @@
+{
+  "emoji": ":sun_with_face:",
+  "role": "Student",
+  "introduction": "I sure am glad to be taking this class",
+  "achievements": [
+    "Got straight A's last semester",
+    "Graduated High School with a 3.43 GPA"
+  ],
+  "links": {
+    "site": "https://it3049c-fall20.github.io/1-online-portfolio-bodensjr/"
+  }
+}

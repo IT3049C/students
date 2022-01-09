@@ -1,0 +1,12 @@
+{
+  "emoji": ":+1:",
+  "role": "Student",
+  "introduction": "I'm excited to learn from this class!",
+  "achievements": ["Dota2 Highschool League No.2", "achievement2"],
+  "links": {
+    "site": "https://bentaohe.github.io/1-online-portfolio-bentaohe-master/",
+    "linkedin": "LINK_TO_YOUR_LINKEDIN_PROFILE",
+    "facebook": "LINK_TO_YOUR_FACEBOOK_PROFILE",
+    "twitter": "LINK_TO_YOUR_TWITTER_PROFILE"
+  }
+}

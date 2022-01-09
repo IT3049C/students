@@ -1,0 +1,15 @@
+{
+  "emoji": ":sweat_smile:",
+  "role": "Student",
+  "introduction": "I am not sure if I am doing this right but excited to learn Git Hub!",
+  "achievements": [
+    "Summer Internship",
+    "Built a personal website",
+    "Learning to speak French"
+  ],
+  "links": {
+    "site": "https://it3049c-fall20.github.io/1-online-portfolio-gillisj2/",
+    "linkedin": "https://www.linkedin.com/in/janice-gillis-765569180/",
+    "facebook": "https://www.facebook.com/profile.php?id=100007153605846"
+  }
+}

@@ -1,0 +1,12 @@
+{
+       "emoji": ":soccer:",
+       "role": "Student",
+       "introduction": "Hello! My name is Austin Kirk and I am a third-year IT student focusing on software development",
+       "achievements": [
+           "Received the Cincinnatus Century Award Scholarship",
+           "Awarded the Transition Scholarship"
+       ],
+       "links": {
+           "site": "https://kirkai.github.io/1-online-portfolio-kirkai/"
+       }
+   }
