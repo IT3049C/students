@@ -1,0 +1,13 @@
+{
+       "emoji": ":alien:",
+       "role": "Student",
+       "introduction": "Hello my name is Eddie Bender and I am a third year Software Development major. I am from Cincinnati and have two sisters a dog named Dakota. I am extremly excited about this semester becuase most of my classes are in person.",
+       "achievements": [
+           "Surviving lockdown with my sanity.",
+           "Making Deans list every semester of Undergraduate so far."
+       ],
+       "links": {
+           "site": "https://github.com/bendered2332"
+           "linkedin": "https://www.linkedin.com/in/edward-bender-02a36a197/"
+       }
+   }
