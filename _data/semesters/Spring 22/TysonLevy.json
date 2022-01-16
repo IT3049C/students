@@ -1,0 +1,13 @@
+{
+       "emoji": ":smile:",
+       "role": "Student",
+       "introduction": "I am very excited to be taking this class!",
+       "achievements": [
+           "Creating a fully functional website for a friend's band",
+           "Creating a small game in Python utilizing PyGame"
+       ],
+       "links": {
+           "site": "https://github.com/Leach-IT3049C/1-online-portfolio-TysonLevy",
+           "facebook": "https://www.facebook.com/profile.php?id=100010040140839",
+       }
+   }
