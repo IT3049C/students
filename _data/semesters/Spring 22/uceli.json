@@ -1,0 +1,15 @@
+{
+  "emoji": ":seedling:",
+  "role": "Student",
+  "introduction": "Hi. I'm Eli. My short term goal is to be a full stack developer. My long term goal is to eat a bag of jumbo marshmallows in under one minute.",
+  "achievements": [
+    "Felled a tree in the woods with a chainsaw",
+    "Chopped tree into 16in chunks",
+    "Created a log zip line to transport said logs from woods to home. Logs are surprisingly heavy.",
+    "Chopped logs into firewood stacks. Burned wood.",
+    "Made S'mores."    
+  ],
+  "links": {
+    "site": "https://leach-it3049c.github.io/1-online-portfolio-uceli/"    
+  }
+}
