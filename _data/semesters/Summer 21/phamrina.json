@@ -1,0 +1,14 @@
+ {
+      "emoji": ":sunglasses:",
+      "role": "Student",
+      "introduction": "Hello! I'm Nick Pham-Rider and I am very excited to meet you all",
+      "achievements": [
+          "I have been skiing since I 3",
+          "I have won an F1 league before"
+      ],
+      "links": {
+          "site": "LINK_TO_YOUR_WEBSITE",
+          "linkedin": "LINK_TO_YOUR_LINKEDIN_PROFILE",
+          "facebook": "LINK_TO_YOUR_FACEBOOK_PROFILE",
+          "twitter": "LINK_TO_YOUR_TWITTER_PROFILE",
+      }
