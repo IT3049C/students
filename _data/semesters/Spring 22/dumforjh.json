@@ -1,0 +1,15 @@
+{
+      "emoji": ":smirk_cat:",
+      "role": "Student",
+      "introduction": "I am excited to learn about all of you.",
+      "achievements": [
+          "achievement1",
+          "achievement2"
+      ],
+      "links": {
+          "site": site: "https://it3049c-students.github.io/1-online-portfolio-dumforjh/",
+          "linkedin": site: "https://www.linkedin.com/in/john-dumford-27a108201/",
+          "facebook": site: "https://www.facebook.com/profile.php?id=100012598806765",
+          "twitter": site: "https://twitter.com/john_dumford",
+      }
+  }
