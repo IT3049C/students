@@ -5,12 +5,9 @@
        "achievements": [
            "Getting two interships with P&G",
            "Building my own computer",
-           "Getting int collage",
+           "Getting int collage"
        ],
        "links": {
-           "site": "LINK_TO_YOUR_WEBSITE",
-           "linkedin": "https://www.linkedin.com/in/perry-mccarthy-6a5871207/",
-           "facebook": "LINK_TO_YOUR_FACEBOOK_PROFILE",
-           "twitter": "LINK_TO_YOUR_TWITTER_PROFILE",
+           "linkedin": "https://www.linkedin.com/in/perry-mccarthy-6a5871207/"
        }
    }
