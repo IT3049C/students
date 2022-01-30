@@ -1,0 +1,11 @@
+   {
+       "emoji": ":smirk_cat:",
+       "role": "Student",
+       "introduction": "I'm excited to take this class and improve my skill set",
+       "achievements": [
+           "achievement1: Getting into college"
+       ],
+       "links": {
+           "linkedin": "www.linkedin.com/in/vedant-amin"
+       }
+   }
