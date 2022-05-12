@@ -1,0 +1,14 @@
+ {
+      "emoji": ":smile:",
+      "role": "Student",
+      "introduction": "Hi my name is Sam Gehrlich, I am a senior at UC and my major is software development.",
+      "achievements": [
+          "Created my own professional website.",
+          "Beat Elden Ring."
+      ],
+      "links": {
+          "site": "https://it3049c-students.github.io/1-online-portfolio-samgehrlich/",
+          "linkedin": "https://www.linkedin.com/in/sam-gehrlich-b0a038193/",
+          
+      }
+  }
