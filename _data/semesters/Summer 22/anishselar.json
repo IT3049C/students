@@ -1,0 +1,13 @@
+{
+      "emoji": ":grinning:",
+      "role": "Student",
+      "introduction": "My name is Anish Selar and I'm an incoming Senior at the University Of Cincinnati completing a IT major on the Software Development track. Currently I'm starting an IT co-op at Kroger for the summer that I'm excited about.",
+      "achievements": [
+          "Android Movie Database Application, Spring 2022",
+          "Dean's List, Spring & Fall 2021"
+      ],
+      "links": {
+          "site": "https://it3049c-students.github.io/1-online-portfolio-anishselar/",
+          "linkedin": "https://www.linkedin.com/in/ani2000/",
+      }
+  }
