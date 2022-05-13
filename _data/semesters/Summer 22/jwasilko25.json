@@ -1,0 +1,13 @@
+ {
+      "emoji": ":smile:",
+      "role": "Student",
+      "introduction": "Hi my name is Jenna Wasilko and I am a second year student!",
+      "achievements": [
+          "Acquired an internship with Kroger T&D",
+          "Straight As during Spring Semester"
+      ],
+      "links": {
+          "site": "https://github.com/IT3049C-Students/1-online-portfolio-jwasilko25",
+          "linkedin": "https://www.linkedin.com/in/jenna-wasilko-2691a2201",
+      }
+  }
