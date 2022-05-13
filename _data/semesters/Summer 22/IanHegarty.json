@@ -1,1 +1,12 @@
-
+{
+      "emoji": ":scream_cat:",
+      "role": "Student",
+      "introduction": "I'm excited to learn more web development skills and create games!",
+      "achievements": [
+          "Dean's List",
+          "Google Certificate"
+      ],
+      "links": {
+          "site": "https://it3049c-students.github.io/1-online-portfolio-IanHegarty/"
+      }
+  }
