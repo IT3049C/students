@@ -1,0 +1,12 @@
+{
+      "emoji": ":crown:",
+      "role": "Student",
+      "introduction": "I'm not ready to learn JavaScript",
+      "achievements": [
+          "I made Dean's List last semester",
+          "Perfected my Fried Rice recipe"
+      ],
+      "links": {
+          "site": "https://it3049c-students.github.io/1-online-portfolio-TGentile6/"
+      }
+  }

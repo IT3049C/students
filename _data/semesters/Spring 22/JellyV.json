@@ -1,0 +1,13 @@
+  {
+      "emoji": ":eyes:",
+      "role": "Student",
+      "introduction": "Hey this is Vakho",
+      "achievements": [
+          "created a POS website with the notification feature",
+          "started a new job as a software developer intern"
+      ],
+      "links": {
+          "site": "https://it3049c-students.github.io/1-online-portfolio-JellyV/",
+          "linkedin": "https://www.linkedin.com/in/vakho-akobia/"
+      }
+  }

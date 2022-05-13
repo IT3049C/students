@@ -1,0 +1,12 @@
+{
+      "emoji": ":joy:",
+       "role": "Student",
+       "introduction": "Hello I am Steven",
+       "achievements": [
+           "I dodged getting COVID twice",
+           "I got to meet Stan Lee at the age of 16"
+       ],
+       "links": {
+           "site": "https://github.com/Leach-IT3049C/1-online-portfolio-StevenHatton"
+       }
+}

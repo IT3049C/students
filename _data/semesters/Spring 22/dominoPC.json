@@ -1,0 +1,12 @@
+   {
+       "emoji": ":metal:",
+       "role": "Student",
+       "introduction": "Hi",
+       "achievements": [
+           "Elected Vice President of the UC Clermont Tech Club",
+           "Wrote a C program to determine the longest word which uses only short letters is nonerroneousness"
+       ],
+       "links": {
+           "site": "https://leach-it3049c.github.io/1-online-portfolio-dominoPC/"
+       }
+   }
