@@ -1,0 +1,13 @@
+{
+      "emoji": ":smile:",
+      "role": "Student",
+      "introduction": "Hello everyone, nice to meet you all and I'm looking forward to learning more about this class!",
+      "achievements": [
+          "I recently led a company wide phishing campaign at my coop where I created the email template from scratch in HTML",
+          "I am working on making a simple VPN on a Raspberyy Pi"
+      ],
+      "links": {
+          "site": "https://it3049c-students.github.io/1-online-portfolio-draginoff/",
+          "linkedin": "https://www.linkedin.com/in/david-draginoff-997049188?trk=people-guest_people_search-card"
+      }
+  }
