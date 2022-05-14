@@ -1,0 +1,13 @@
+ {
+      "emoji": ":sparkles:",
+      "role": "Student",
+      "introduction": "Heyo, my name is Chloe! I'm in my fourth year in the software development track of IT. My favorite color is yellow, with my second favorite color being green.",
+      "achievements": [
+          "Did a research project in high school revolving about using UV lights on makeup sample testers",
+          "Dean's list both Spring 2022 and Fall 2022"
+      ],
+      "links": {
+          "linkedin": "https://www.linkedin.com/in/chloe-motz-118262197/",
+          "facebook": "https://www.facebook.com/chloe.motz/",
+      }
+  }
