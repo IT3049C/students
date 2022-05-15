@@ -1,0 +1,15 @@
+  {
+      "emoji": ":neckbeard:",
+      "role": "Student",
+      "introduction": "Hi my name is payton and I am a junior studying software development.",
+      "achievements": [
+          "Dean's List recipient for Fall 2019 & 2020",
+          "STEM Technology Scholarship recipient"
+      ],
+      "links": {
+          "site": "https://github.com/turnbopd",
+          "linkedin": "https://www.linkedin.com/in/turnbowpayton/",
+          "facebook": "N/A",
+          "twitter": "N/A",
+      }
+  }
