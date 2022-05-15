@@ -1,0 +1,13 @@
+  {
+      "emoji": ":alien:",
+      "role": "Student",
+      "introduction": "I'm excited to learn about this class",
+      "achievements": [
+          "Created Hello World Project",
+          "Create online portfolio"
+      ],
+      "links": {
+          "site": "https://it3049c-students.github.io/1-online-portfolio-pokhrebi/",
+          "linkedin": "https://www.linkedin.com/in/bhaktipokhrel/",
+      }
+  }
