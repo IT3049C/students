@@ -1,0 +1,15 @@
+  {
+      "emoji": ":relaxed",
+      "role": "Student",
+      "introduction": "I'm excited to learn about you all!",
+      "achievements": [
+          "Can solve rubik's cube in 30 seconds or less",
+          "Can play the piano"
+      ],
+      "links": {
+          "site": "https://github.com/zmstenger/students",
+          "linkedin": "LINK_TO_YOUR_LINKEDIN_PROFILE",
+          "facebook": "LINK_TO_YOUR_FACEBOOK_PROFILE",
+          "twitter": "LINK_TO_YOUR_TWITTER_PROFILE",
+      }
+  }
