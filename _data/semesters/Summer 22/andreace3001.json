@@ -1,0 +1,12 @@
+{
+      "emoji": ":sun_with_face:",
+      "role": "Student",
+      "introduction": "My name is Andre' Acebal. I look forward to working with you all throughout the course of this semester!",
+      "achievements": [
+          "I recently recieved my associates degree in Software Development",
+          "I am on track to graduate May 2023!"
+      ],
+      "links": {
+          "linkedin": "https://www.linkedin.com/in/andr%C3%A9-acebal-6b5518181/",
+      }
+  }
