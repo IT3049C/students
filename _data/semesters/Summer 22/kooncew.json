@@ -1,0 +1,14 @@
+ {
+      "emoji": ":bowtie:",
+      "role": "Student",
+      "introduction": "I'm excited to learn about you all and learn Web Game Development!",
+      "achievements": [
+          "I own 2 cats",
+          "I can eat a large pizza in one sitting"
+          "I got my first job as a Service Desk Technician recently
+      ],
+      "links": {
+          "linkedin": "https://www.linkedin.com/in/william-koonce-6679551b8/",
+
+      }
+  }
