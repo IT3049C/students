@@ -1,0 +1,15 @@
+ {
+      "emoji": ":snail:",
+      "role": "Student",
+      "introduction": "My name is Matt, I am from Northern KY and enjoy games and music. I am not very interesting so that is all I could come up with.",
+      "achievements": [
+          "UC Dean's List",
+          "COMPTIA and Microsoft Office Certified",
+          "Soccer team captain and Top Male Archer award in highschool"
+      ],
+      "links": {
+          "site": "https://it3049c-students.github.io/1-online-portfolio-abbottmh/",
+          "linkedin": "https://www.linkedin.com/in/matthewbabbott/",
+          "Instagram": "https://www.instagram.com/mattabbott898/",
+      }
+  }
