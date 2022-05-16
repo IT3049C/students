@@ -1,0 +1,13 @@
+  {
+      "emoji": ":sunglasses:",
+      "role": "Student",
+      "introduction": "I'm excited for this summer term and enjoyimg the nice weather!",
+      "achievements": [
+          "Awarded the CoN Staff Excellence Award",
+          "Live to tell another day"
+      ],
+      "links": {
+          "site": "https://it3049c-students.github.io/1-online-portfolio-jros07/",
+          "linkedin": "https://www.linkedin.com/in/joros07/"
+      }
+  }
