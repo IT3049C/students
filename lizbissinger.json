@@ -1,0 +1,13 @@
+  {
+      "emoji": ":smile:",
+      "role": "Student",
+      "introduction": "Hello everyone!",
+      "achievements": [
+          "Completed a second co-op",
+          "Ran a 3k"
+      ],
+      "links": {
+          "site": "https://it3049c-students.github.io/1-online-portfolio-lizbissinger/",
+          
+      }
+  }
