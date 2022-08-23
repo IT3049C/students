@@ -1,0 +1,13 @@
+{
+  "emoji": ":droplet:",
+  "role": "Student",
+  "introduction": "My name is Kenny and I'm glad to be back at UC!",
+  "achievements": [
+      "Graduated from Cincinnati State in May 2022",
+      "Joined Phi Theta Kappa Honor Society"
+  ],
+  "links": {
+      "site": "https://it3049c-fall22-henderson.github.io/online-portfolio-KennethOtero/",
+      "linkedin": "https://www.linkedin.com/in/kenneth-otero-jr/",
+  }
+}
