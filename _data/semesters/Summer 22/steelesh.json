@@ -1,0 +1,12 @@
+ {
+      "emoji": ":zap:",
+      "role": "Student",
+      "introduction": "I look forward to meeting everyone!",
+      "achievements": [
+          "Created a logo & designed merchandise for the local construction company I worked for.",
+          "Designed & built a fully functional personal portfolio website with HTML, CSS, and Javascript. "
+      ],
+      "link": {
+          "site": "https://it3049c-fall22-henderson.github.io/online-portfolio-steelesh/"
+      }
+  }
