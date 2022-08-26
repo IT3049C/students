@@ -1,0 +1,15 @@
+ {
+      "emoji": ":smirk_dog:",
+      "role": "Student",
+      "introduction": "Nice to meet you all can't wait to work together",
+      "achievements": [
+          "Pass the Class",
+          "Learn something new"
+      ],
+      "links": {
+          "site": "LINK_TO_YOUR_WEBSITE",
+          "linkedin": "https://www.linkedin.com/in/jonathan-heasley-0379861b9/",
+          "facebook": "Jonathan Heasley",
+          "twitter": "@JHeasley02",
+      }
+  }
