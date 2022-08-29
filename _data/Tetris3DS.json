@@ -1,0 +1,14 @@
+  {
+      "emoji": ":evergreen_tree:",
+      "role": "Student",
+      "introduction": "I'm very excited to learn in this class! I hope to get to know my fellow students, and feel like I can ask them anything, and they can ask me anything!",
+      "achievements": [
+          "Designing Games",
+          "Creating 3D Models"
+      ],
+      "links": {
+          "site": "https://homepages.uc.edu/~schnetbg/portfolio_one/websiteblack.html",
+          "linkedin": "https://www.linkedin.com/in/ben-schnetzer/",
+          "facebook": "https://www.facebook.com/ben.schnetzer.77/",
+      }
+  }
