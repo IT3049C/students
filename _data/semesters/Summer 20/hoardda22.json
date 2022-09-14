@@ -1,0 +1,16 @@
+{
+       "emoji": ":laughing:",
+       "role": "Student",
+       "introduction": "My name is Darrion Hoard. I typically go by Dee. I am an Accelerated Master's Student.",
+       "achievements": [
+           "SFS Scholar",
+           "Deans List",
+           "Created my own crypto coin"
+       ],
+       "links": {
+           "site": "LINK_TO_YOUR_WEBSITE",
+           "linkedin": "https://www.linkedin.com/in/darrion-hoard-523b35174/",
+           "facebook": "https://www.facebook.com/darrion.hoard.92",
+           "twitter": "LINK_TO_YOUR_TWITTER_PROFILE",
+       }
+   }
