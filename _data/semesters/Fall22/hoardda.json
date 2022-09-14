@@ -1,0 +1,15 @@
+  {
+      "emoji": ":smirk_cat:",
+      "role": "Student",
+      "introduction": "Hello, my name is Darrion & I go by Dee",
+      "achievements": [
+          "Dean's List",
+          "Multiple Scholarship Recipient"
+      ],
+      "links": {
+          "site": "https://github.com/dhoard2022",
+          "linkedin": "https://www.linkedin.com/in/darrion-hoard-523b35174/",
+          "facebook": "https://www.facebook.com/profile.php?id=100083265168668",
+          "twitter": "LINK_TO_YOUR_TWITTER_PROFILE",
+      }
+  }
